@@ -124,6 +124,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Layer_1_3.png",
             "title": "New Updates",
             "body": "",
             "url": ""
