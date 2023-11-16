@@ -85,7 +85,6 @@
             "button_text": "Buy Optimo Now",
             "button_url": "shopify:\/\/products\/optimo",
             "secondary_btn_text": "",
-            "secondary_btn_icon": "shopify:\/\/shop_images\/icon_video_play_white.png",
             "button_border_radius": 10,
             "align_on_same_line": true,
             "uppercase_button": false,
@@ -102,8 +101,8 @@
       "settings": {
         "spacing": "none",
         "section_color": "normal",
-        "desktop": "shopify:\/\/shop_images\/Eczah_-_1x1_Shots_1600_x_700_px_3.png",
-        "mobile": "shopify:\/\/shop_images\/Optimo_Mock-ups_1.png",
+        "desktop": "shopify:\/\/shop_images\/background.png",
+        "mobile": "shopify:\/\/shop_images\/Zaverycakes_414x667_mobile-banner_2_1.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
@@ -116,49 +115,50 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-01.png",
+            "image": "shopify:\/\/shop_images\/Layer_1_1.png",
             "title": "Mobile First",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-05.png",
             "title": "New Updates",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-02.png",
             "title": "Custom PDP",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-03.png",
             "title": "Built-in CRO",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         },
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-04.png",
             "title": "UGC Slider",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         },
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-06.png",
             "title": "Community",
-            "body": ""
+            "body": "",
+            "url": ""
           }
         }
       },
@@ -170,7 +170,9 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd",
         "c62685c6-f711-4832-abe0-f14c4fcdadbe"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "color": "normal",
         "images_on_mobile": "2",
@@ -205,7 +207,6 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-04T134704.150.png"
           }
         },
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
@@ -226,7 +227,8 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1"
       ],
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "27138591-9185-4f3c-8ca3-34be1551668a": {
       "type": "image-or-text",
@@ -234,7 +236,6 @@
         "b534ccc7-6a83-4413-874c-69515a0be31b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Spiritual_20.png"
           }
         },
         "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556": {
@@ -292,7 +293,6 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Spiritual_19.png"
           }
         }
       },
@@ -313,7 +313,6 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CH_44.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
@@ -323,7 +322,6 @@
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CH_25.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
@@ -410,28 +408,32 @@
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         }
       },
@@ -504,19 +506,23 @@
       "blocks": {
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1": {
           "type": "variants",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1": {
           "type": "quantity",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1": {
           "type": "buy",
@@ -526,11 +532,13 @@
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1": {
           "type": "trust",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1": {
           "type": "review",
