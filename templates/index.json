@@ -268,6 +268,14 @@
       "settings": {
       }
     },
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
+      "type": "heading-text",
+      "settings": {
+        "spacing": "top",
+        "color": "normal",
+        "text": "Our Collections"
+      }
+    },
     "27138591-9185-4f3c-8ca3-34be1551668a": {
       "type": "image-or-text",
       "blocks": {
@@ -309,7 +317,7 @@
         "vertical_spacing": 26,
         "color": "normal",
         "collection": "all-products",
-        "count": 5,
+        "count": 4,
         "product_hover": false
       }
     },
@@ -600,6 +608,7 @@
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
     "a5d9d414-2060-4b9a-a632-c8767dc35885",
     "1ddd250b-223c-4adf-934e-bbee463f458a",
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
     "27138591-9185-4f3c-8ca3-34be1551668a",
     "eabcb187-0d81-44f8-900f-78388749dad4",
     "086d1ac5-2174-4263-b13a-9d10a58c2537",
