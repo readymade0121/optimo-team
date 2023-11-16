@@ -187,6 +187,16 @@
         "limit_image_size": true
       }
     },
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca": {
+      "type": "intro-text",
+      "settings": {
+        "color": "normal",
+        "spacing": "top",
+        "small_heading": "Your smallheading text will go here.",
+        "heading": "Totam Rem Aperiam",
+        "text": ""
+      }
+    },
     "eabcb187-0d81-44f8-900f-78388749dad4": {
       "type": "featured-collection",
       "settings": {
@@ -236,7 +246,7 @@
       "type": "heading-text",
       "settings": {
         "spacing": "top",
-        "color": "normal",
+        "color": "alt",
         "text": "Our Collections"
       }
     },
@@ -268,7 +278,7 @@
       ],
       "settings": {
         "spacing": "both",
-        "color": "normal",
+        "color": "alt",
         "contained": false,
         "block_spacing": 20
       }
@@ -650,6 +660,7 @@
     "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca",
     "eabcb187-0d81-44f8-900f-78388749dad4",
     "a5d9d414-2060-4b9a-a632-c8767dc35885",
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
