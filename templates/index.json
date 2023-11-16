@@ -187,6 +187,18 @@
         "limit_image_size": true
       }
     },
+    "eabcb187-0d81-44f8-900f-78388749dad4": {
+      "type": "featured-collection",
+      "settings": {
+        "spacing": "both",
+        "horizontal_spacing": 26,
+        "vertical_spacing": 26,
+        "color": "normal",
+        "collection": "all-products",
+        "count": 4,
+        "product_hover": false
+      }
+    },
     "a5d9d414-2060-4b9a-a632-c8767dc35885": {
       "type": "image-or-text",
       "blocks": {
@@ -218,6 +230,47 @@
         "color": "normal",
         "contained": false,
         "block_spacing": 100
+      }
+    },
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
+      "type": "heading-text",
+      "settings": {
+        "spacing": "top",
+        "color": "normal",
+        "text": "Our Collections"
+      }
+    },
+    "27138591-9185-4f3c-8ca3-34be1551668a": {
+      "type": "image-or-text",
+      "blocks": {
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group.png",
+            "url": "",
+            "heading": "LOREM IPSUM",
+            "button_text": "SHOP NOW"
+          }
+        },
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/product-2.png",
+            "url": "",
+            "heading": "ADIPISCI VELIT",
+            "button_text": "SHOP NOW"
+          }
+        }
+      },
+      "block_order": [
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242",
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 20
       }
     },
     "1ddd250b-223c-4adf-934e-bbee463f458a": {
@@ -268,57 +321,37 @@
       "settings": {
       }
     },
-    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
-      "type": "heading-text",
-      "settings": {
-        "spacing": "top",
-        "color": "normal",
-        "text": "Our Collections"
-      }
-    },
-    "27138591-9185-4f3c-8ca3-34be1551668a": {
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6": {
       "type": "image-or-text",
       "blocks": {
-        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
-          "type": "link-card",
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
+          "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group.png",
-            "url": "",
-            "heading": "LOREM IPSUM",
-            "button_text": "SHOP NOW"
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
-        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
-          "type": "link-card",
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/product-2.png",
-            "url": "",
-            "heading": "ADIPISCI VELIT",
-            "button_text": "SHOP NOW"
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Your smallheading text will go here.",
+            "heading": "Your heading text will go here.",
+            "body": "<p>Your body text will go here.<\/p>",
+            "button_text": "Call To Action Text Here",
+            "button_url": ""
           }
         }
       },
       "block_order": [
-        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242",
-        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db"
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1",
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"
       ],
       "settings": {
         "spacing": "both",
         "color": "normal",
         "contained": false,
-        "block_spacing": 20
-      }
-    },
-    "eabcb187-0d81-44f8-900f-78388749dad4": {
-      "type": "featured-collection",
-      "settings": {
-        "spacing": "both",
-        "horizontal_spacing": 26,
-        "vertical_spacing": 26,
-        "color": "normal",
-        "collection": "all-products",
-        "count": 4,
-        "product_hover": false
+        "block_spacing": 100
       }
     },
     "086d1ac5-2174-4263-b13a-9d10a58c2537": {
@@ -606,11 +639,12 @@
     "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
+    "eabcb187-0d81-44f8-900f-78388749dad4",
     "a5d9d414-2060-4b9a-a632-c8767dc35885",
-    "1ddd250b-223c-4adf-934e-bbee463f458a",
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
     "27138591-9185-4f3c-8ca3-34be1551668a",
-    "eabcb187-0d81-44f8-900f-78388749dad4",
+    "1ddd250b-223c-4adf-934e-bbee463f458a",
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6",
     "086d1ac5-2174-4263-b13a-9d10a58c2537",
     "36c4061f-b658-4892-9adb-3ad74bd58180",
     "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a",
