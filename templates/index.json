@@ -1,0 +1,597 @@
+{
+  "sections": {
+    "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684": {
+      "type": "ig-slider",
+      "blocks": {
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1": {
+          "type": "video_item",
+          "settings": {
+            "title": "Testimonial"
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1": {
+          "type": "product_item",
+          "settings": {
+            "title": "Product Title",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2": {
+          "type": "video_item",
+          "settings": {
+            "title": "Testimonial"
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
+          "type": "product_item",
+          "settings": {
+            "title": "Product Title",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3": {
+          "type": "product_item",
+          "settings": {
+            "title": "Product Title",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4": {
+          "type": "product_item",
+          "settings": {
+            "title": "Product Title",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4"
+      ],
+      "settings": {
+        "usage": "mobile_only",
+        "border_size": 2
+      }
+    },
+    "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8": {
+      "type": "hero-classic",
+      "blocks": {
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0": {
+          "type": "star-bar",
+          "settings": {
+            "five_star_title": "Happy Customers",
+            "star_size": 16
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1": {
+          "type": "heading-text",
+          "settings": {
+            "heading": "The \"Mobile First\" Shopify theme"
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2": {
+          "type": "body-text",
+          "settings": {
+            "body": "Better conversion rates and higher AOV guaranteed! Optimo is designed for mobile and being used by 6, 7 & 8 figure stores like these."
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Buy Optimo Now",
+            "button_url": "shopify:\/\/products\/optimo",
+            "secondary_btn_text": "",
+            "secondary_btn_icon": "shopify:\/\/shop_images\/icon_video_play_white.png",
+            "button_border_radius": 10,
+            "align_on_same_line": true,
+            "uppercase_button": false,
+            "button_padding": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3"
+      ],
+      "settings": {
+        "spacing": "none",
+        "section_color": "normal",
+        "desktop": "shopify:\/\/shop_images\/Eczah_-_1x1_Shots_1600_x_700_px_3.png",
+        "mobile": "shopify:\/\/shop_images\/Optimo_Mock-ups_1.png",
+        "make_card": false,
+        "desktop_text_position": "left",
+        "mobile_text_position": "top",
+        "text_width": 400
+      }
+    },
+    "45b904b3-e45b-4d5a-8243-e47ac643a830": {
+      "type": "grid",
+      "blocks": {
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-01.png",
+            "title": "Mobile First",
+            "body": ""
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-05.png",
+            "title": "New Updates",
+            "body": ""
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-02.png",
+            "title": "Custom PDP",
+            "body": ""
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-03.png",
+            "title": "Built-in CRO",
+            "body": ""
+          }
+        },
+        "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-04.png",
+            "title": "UGC Slider",
+            "body": ""
+          }
+        },
+        "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/optimotheme_-06.png",
+            "title": "Community",
+            "body": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4",
+        "b5a8c23e-43b1-4775-9011-a183f6da9dbd",
+        "c62685c6-f711-4832-abe0-f14c4fcdadbe"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color": "normal",
+        "images_on_mobile": "2",
+        "images_on_tablet": "3",
+        "images_on_desktop": "3",
+        "text_align": "center",
+        "limit_image_size": true
+      }
+    },
+    "1ddd250b-223c-4adf-934e-bbee463f458a": {
+      "type": "hero-blocked",
+      "blocks": {
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The Shopify Theme that gets better every month.",
+            "heading_font_size": 14,
+            "heading_border_radius": 16,
+            "heading_text_color": "#ffffff",
+            "heading_bg_color": "#000000"
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1": {
+          "type": "body_text",
+          "settings": {
+            "title": "<p>Its cutting-edge design and intuitive interface make it a favorite choice for both startups and established brands looking to create an engaging online store. With multiple pre-built layouts and style options, Optimo allows businesses to shape their store's appearance to match their brand identity, offering a seamless and captivating shopping experience. Its cutting-edge design and intuitive interface make it a favorite choice for both startups and established brands looking to create an engaging online store. With multiple pre-built layouts and style options, Optimo allows businesses to shape their store's appearance to match their brand identity, offering a seamless and captivating shopping experience.<\/p>",
+            "body_font_size": 14,
+            "body_text_color": "#ffffff",
+            "body_bg_color": "#000000"
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-04T134704.150.png"
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "Get The Theme",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000",
+            "button_deco_color": "#000000",
+            "button_link": "shopify:\/\/products\/optimo"
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "27138591-9185-4f3c-8ca3-34be1551668a": {
+      "type": "image-or-text",
+      "blocks": {
+        "b534ccc7-6a83-4413-874c-69515a0be31b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spiritual_20.png"
+          }
+        },
+        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Save Your Time & Money",
+            "heading": "Upgrade Your Shopify Store Today!",
+            "body": "<p>With Optimo, you can build your own website and start selling online in minutes. All you need to do is: <\/p><ol><li>Upload your photos.<\/li><li>Add your text.<\/li><li>Add your products. <\/li><\/ol><p>You can even customize your theme to make your store look unique. And our video tutorials will walk you through every step of the way.<\/p><p>So what are you waiting for? Upgrade your Shopify store today!<\/p>",
+            "button_text": "Upgrade To Optimo",
+            "button_url": "shopify:\/\/products\/optimo"
+          }
+        }
+      },
+      "block_order": [
+        "b534ccc7-6a83-4413-874c-69515a0be31b",
+        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 20
+      }
+    },
+    "eabcb187-0d81-44f8-900f-78388749dad4": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "spacing": "both",
+        "horizontal_spacing": 26,
+        "vertical_spacing": 26,
+        "color": "normal",
+        "collection": "all-products",
+        "count": 1,
+        "product_hover": false
+      }
+    },
+    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Your smallheading text will go here.",
+            "heading": "Your heading text will go here.",
+            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
+            "button_text": "Call To Action Text Here",
+            "button_url": ""
+          }
+        },
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Spiritual_19.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "086d1ac5-2174-4263-b13a-9d10a58c2537": {
+      "type": "image-or-text",
+      "blocks": {
+        "e088b976-829d-4762-b701-b0092c3bf79d": {
+          "type": "review",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CH_44.png",
+            "stars": 5,
+            "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
+            "reviewer": "Sample R",
+            "text_box_background": "#f9f9f9"
+          }
+        },
+        "26c577f3-14da-4357-91e3-cdba53ea0c89": {
+          "type": "review",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CH_25.png",
+            "stars": 5,
+            "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
+            "reviewer": "Sample R",
+            "text_box_background": "#f9f9f9"
+          }
+        }
+      },
+      "block_order": [
+        "e088b976-829d-4762-b701-b0092c3bf79d",
+        "26c577f3-14da-4357-91e3-cdba53ea0c89"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "36c4061f-b658-4892-9adb-3ad74bd58180": {
+      "type": "faqs",
+      "blocks": {
+        "c06b412f-29f3-4557-b72f-447cb6e07ae9": {
+          "type": "section",
+          "settings": {
+            "heading": "Is Optimo really $99\/mo?",
+            "body": "<p>Yes, it's true! We thought about pricing it at $997, but then we thought, \"Nah, let's give 'em a break!\" So, here we are, offering you the deal of the century.<\/p><p>And if you get stuck, our helpful community can help you out.<\/p><p><strong>Upgrade to Optimo today to help you grow your business.<\/strong><\/p>"
+          }
+        },
+        "a2bc8c59-a878-44ac-84c3-fb5e33f0f991": {
+          "type": "section",
+          "settings": {
+            "heading": "What if i'm not a tech wiz?",
+            "body": "<p>No worries! Optimo is so user-friendly, even your grandma could set it up. <\/p><p>And if she's busy, we've got a team of dedicated devs and concise 1-minute tutorials to help you out.<\/p>"
+          }
+        },
+        "1bdd2c90-51c7-420b-84b0-73ce70a5afe9": {
+          "type": "section",
+          "settings": {
+            "heading": "Will optimo look good on mobile?",
+            "body": "<p>Will a bear do its business in the woods? Absolutely! Optimo was born on mobile. <\/p><p>Your site will look so good on mobile, your customers won't be able to resist.<\/p>"
+          }
+        },
+        "5bb7edee-01d6-4a6b-8b28-d0a578996410": {
+          "type": "section",
+          "settings": {
+            "heading": "What if I need help at 3am?",
+            "body": "<p>We've got you covered! Our team of theme experts are on hand 24\/7. <\/p><p>They're real people, not robots (at least, not yet). So, whether you're a night owl or an early bird, we're here for you<\/p>"
+          }
+        },
+        "ebc001ae-0148-46d0-8401-a6530c90c24a": {
+          "type": "section",
+          "settings": {
+            "heading": "Can I use Optimo for my [insert industry here] store?",
+            "body": "<p>You bet! Optimo is like a chameleon, it adapts to any industry. <\/p><p>Whether you're selling artisanal cheese or spaceship parts, Optimo's got your back.<\/p>"
+          }
+        },
+        "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f": {
+          "type": "section",
+          "settings": {
+            "heading": "What if I decide to break up with Optimo?",
+            "body": "<p>We'll be heartbroken, but we understand. There's no contract or commitment, you can cancel anytime. <\/p><p>But remember, Optimo will always be here, waiting for you with open arms.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c06b412f-29f3-4557-b72f-447cb6e07ae9",
+        "a2bc8c59-a878-44ac-84c3-fb5e33f0f991",
+        "1bdd2c90-51c7-420b-84b0-73ce70a5afe9",
+        "5bb7edee-01d6-4a6b-8b28-d0a578996410",
+        "ebc001ae-0148-46d0-8401-a6530c90c24a",
+        "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f"
+      ],
+      "settings": {
+        "spacing": "bottom",
+        "faqs": "FAQ's",
+        "heading_size": "medium",
+        "color": "normal"
+      }
+    },
+    "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a": {
+      "type": "grid",
+      "blocks": {
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>"
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>"
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>"
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4"
+      ],
+      "settings": {
+        "color": "normal",
+        "images_on_mobile": "2",
+        "images_on_tablet": "4",
+        "images_on_desktop": "4",
+        "text_align": "left",
+        "limit_image_size": false
+      }
+    },
+    "441edd8c-8049-4590-b66d-8c0c0df16d7b": {
+      "type": "carousel",
+      "blocks": {
+        "4abf86b3-204b-4e7d-8d10-156f5f82ccc0": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        },
+        "573781a5-b93a-4123-8d80-fb79dcc2812e": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        },
+        "f5e9ac8c-2473-4245-9d08-bbb92c12d44c": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "4abf86b3-204b-4e7d-8d10-156f5f82ccc0",
+        "573781a5-b93a-4123-8d80-fb79dcc2812e",
+        "f5e9ac8c-2473-4245-9d08-bbb92c12d44c"
+      ],
+      "settings": {
+        "card_background_color": "#f2f2f2",
+        "cards_on_mobile": "1",
+        "cards_on_tablet": "2",
+        "cards_on_desktop": "3"
+      }
+    },
+    "a86f8e79-07b7-4bfc-bd0b-f861ecb79517": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1": {
+          "type": "title",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1": {
+          "type": "variants",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1": {
+          "type": "quantity",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1": {
+          "type": "buy",
+          "settings": {
+            "dynamic": true
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1": {
+          "type": "description",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1": {
+          "type": "trust",
+          "settings": {}
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1": {
+          "type": "review",
+          "settings": {
+            "color": "normal",
+            "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
+            "reviewer": "Sample R",
+            "stars": 5
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1": {
+          "type": "collapsable-row",
+          "settings": {
+            "heading": "",
+            "icon_size": 30,
+            "body": ""
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1": {
+          "type": "three",
+          "settings": {
+            "image1_width": 80,
+            "text1": "",
+            "image2_width": 80,
+            "text2": "",
+            "image3_width": 80,
+            "text3": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "product": "green-hoodie-1"
+      }
+    }
+  },
+  "order": [
+    "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
+    "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
+    "45b904b3-e45b-4d5a-8243-e47ac643a830",
+    "1ddd250b-223c-4adf-934e-bbee463f458a",
+    "27138591-9185-4f3c-8ca3-34be1551668a",
+    "eabcb187-0d81-44f8-900f-78388749dad4",
+    "a5d9d414-2060-4b9a-a632-c8767dc35885",
+    "086d1ac5-2174-4263-b13a-9d10a58c2537",
+    "36c4061f-b658-4892-9adb-3ad74bd58180",
+    "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a",
+    "441edd8c-8049-4590-b66d-8c0c0df16d7b",
+    "a86f8e79-07b7-4bfc-bd0b-f861ecb79517"
+  ]
+}
