@@ -160,6 +160,7 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Layer_1_4.png",
             "title": "Community",
             "body": "",
             "url": ""
@@ -259,6 +260,7 @@
         "b534ccc7-6a83-4413-874c-69515a0be31b",
         "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556"
       ],
+      "disabled": true,
       "settings": {
         "spacing": "both",
         "color": "normal",
@@ -268,7 +270,6 @@
     },
     "eabcb187-0d81-44f8-900f-78388749dad4": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "spacing": "both",
         "horizontal_spacing": 26,
@@ -290,13 +291,14 @@
             "small_heading": "Your smallheading text will go here.",
             "heading": "Your heading text will go here.",
             "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
-            "button_text": "Call To Action Text Here",
-            "button_url": ""
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections"
           }
         },
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
           }
         }
       },
