@@ -338,8 +338,8 @@
             "small_heading": "Your smallheading text will go here.",
             "heading": "Your heading text will go here.",
             "body": "<p>Your body text will go here.<\/p>",
-            "button_text": "Call To Action Text Here",
-            "button_url": ""
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections"
           }
         }
       },
