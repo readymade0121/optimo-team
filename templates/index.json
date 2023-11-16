@@ -142,6 +142,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Layer_1.png",
             "title": "Built-in CRO",
             "body": "",
             "url": ""
@@ -150,6 +151,7 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Layer_1_2.png",
             "title": "UGC Slider",
             "body": "",
             "url": ""
