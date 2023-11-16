@@ -69,7 +69,7 @@
           "badge_text_color": "#fff9f9",
           "logo": "shopify:\/\/shop_images\/logo.png",
           "logo_width": 70,
-          "nav": "main-menu",
+          "nav": "optimo-menu",
           "cart": true,
           "search": false
         }
