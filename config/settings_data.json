@@ -1,15 +1,5 @@
 {
   "current": {
-    "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
-    "checkout_logo_position": "center",
-    "checkout_logo_size": "small",
-    "checkout_body_background_color": "#f7f5ef",
-    "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_color": "#000000",
-    "checkout_heading_font": "Source Sans Pro",
-    "checkout_body_font": "Source Sans Pro",
-    "checkout_accent_color": "#a30000",
-    "checkout_button_color": "#000000",
     "thumbnail_type": "slider",
     "page_width": 1400,
     "spacing": 40,
@@ -46,6 +36,16 @@
     "grid_item_style": "standard",
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
+    "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#f7f5ef",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#000000",
+    "checkout_heading_font": "Source Sans Pro",
+    "checkout_body_font": "Source Sans Pro",
+    "checkout_accent_color": "#a30000",
+    "checkout_button_color": "#000000",
     "background_3_color": "#f6f6f6",
     "sections": {
       "announcement-bar": {
@@ -67,8 +67,8 @@
           "icon_color": "#000000",
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
-          "logo": "shopify:\/\/shop_images\/rol.png",
-          "logo_width": 105,
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_width": 70,
           "nav": "main-menu",
           "cart": true,
           "search": false
@@ -80,7 +80,6 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/Optimo_logo-03.png",
               "logo_width": 110,
               "twitter": "",
               "facebook": "",
@@ -131,6 +130,8 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   }
 }
