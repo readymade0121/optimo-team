@@ -24,7 +24,7 @@
     "inverse_accent_color": "#ffffff",
     "inverse_accent_text_color": "#ffffff",
     "inverse_border_color": "#ffffff",
-    "inverse_button_color": "#000000",
+    "inverse_button_color": "#132aef",
     "inverse_button_text_color": "#ffffff",
     "inverse_star_color": "#dd1d1d",
     "inverse_checkmark_color": "#ffffff",
@@ -71,6 +71,7 @@
           "logo_width": 70,
           "nav": "optimo-menu",
           "cart": true,
+          "login": false,
           "search": false
         }
       },

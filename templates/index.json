@@ -187,6 +187,39 @@
         "limit_image_size": true
       }
     },
+    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Your smallheading text will go here.",
+            "heading": "Your heading text will go here.",
+            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections"
+          }
+        },
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
     "1ddd250b-223c-4adf-934e-bbee463f458a": {
       "type": "hero-blocked",
       "blocks": {
@@ -276,41 +309,8 @@
         "vertical_spacing": 26,
         "color": "normal",
         "collection": "all-products",
-        "count": 1,
+        "count": 5,
         "product_hover": false
-      }
-    },
-    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
-      "type": "image-or-text",
-      "blocks": {
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
-          "type": "text",
-          "settings": {
-            "spacing": "both",
-            "alignment": "left",
-            "small_heading": "Your smallheading text will go here.",
-            "heading": "Your heading text will go here.",
-            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
-            "button_text": "SHOP NOW",
-            "button_url": "shopify:\/\/collections"
-          }
-        },
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
-      ],
-      "settings": {
-        "spacing": "both",
-        "color": "normal",
-        "contained": false,
-        "block_spacing": 100
       }
     },
     "086d1ac5-2174-4263-b13a-9d10a58c2537": {
@@ -598,10 +598,10 @@
     "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
+    "a5d9d414-2060-4b9a-a632-c8767dc35885",
     "1ddd250b-223c-4adf-934e-bbee463f458a",
     "27138591-9185-4f3c-8ca3-34be1551668a",
     "eabcb187-0d81-44f8-900f-78388749dad4",
-    "a5d9d414-2060-4b9a-a632-c8767dc35885",
     "086d1ac5-2174-4263-b13a-9d10a58c2537",
     "36c4061f-b658-4892-9adb-3ad74bd58180",
     "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a",
