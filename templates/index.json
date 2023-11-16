@@ -498,6 +498,7 @@
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3",
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4"
       ],
+      "disabled": true,
       "settings": {
         "color": "normal",
         "images_on_mobile": "2",
@@ -549,6 +550,7 @@
         "573781a5-b93a-4123-8d80-fb79dcc2812e",
         "f5e9ac8c-2473-4245-9d08-bbb92c12d44c"
       ],
+      "disabled": true,
       "settings": {
         "card_background_color": "#f2f2f2",
         "cards_on_mobile": "1",
@@ -636,6 +638,7 @@
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1",
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1"
       ],
+      "disabled": true,
       "settings": {
         "spacing": "both",
         "color": "normal",

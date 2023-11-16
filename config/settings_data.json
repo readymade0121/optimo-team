@@ -9,15 +9,15 @@
     "heading_fontsize": 30,
     "uppercase": false,
     "product_name_font": "lato_n4",
-    "text_color": "#2e1fec",
+    "text_color": "#070519",
     "background_color": "#ffffff",
     "background_2_color": "#000000",
-    "accent_color": "#000000",
+    "accent_color": "#080808",
     "accent_text_color": "#000000",
     "border_color": "#ffffff",
-    "button_color": "#000000",
+    "button_color": "#2035e7",
     "button_text_color": "#ffffff",
-    "star_color": "#000000",
+    "star_color": "#f8d402",
     "checkmark_color": "#000000",
     "inverse_text_color": "#ffffff",
     "inverse_background_color": "#000000",
@@ -81,11 +81,12 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo_width": 110,
+              "logo": "shopify:\/\/shop_images\/icon-placeholder.png",
+              "logo_width": 75,
               "twitter": "",
               "facebook": "",
               "youtube": "",
-              "instagram": "https:\/\/instagram.com\/miandmy_co"
+              "instagram": ""
             }
           },
           "ce011e70-be89-4d49-8fa9-ab2fe3d81501": {
