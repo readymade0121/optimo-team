@@ -71,7 +71,7 @@
           "logo_width": 70,
           "nav": "optimo-menu",
           "cart": true,
-          "search": true
+          "search": false
         }
       },
       "footer": {
