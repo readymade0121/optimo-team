@@ -203,7 +203,7 @@
         "spacing": "both",
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
-        "color": "normal",
+        "color": "alt",
         "collection": "all-products",
         "count": 4,
         "product_hover": false
