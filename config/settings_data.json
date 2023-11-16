@@ -60,7 +60,7 @@
         "type": "header",
         "settings": {
           "font_family": "default",
-          "font_size": "medium",
+          "font_size": "small",
           "bg_color": "#ffffff",
           "text_color": "#000000",
           "border_color": "#dddddd",
