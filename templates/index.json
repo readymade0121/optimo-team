@@ -238,29 +238,29 @@
     "27138591-9185-4f3c-8ca3-34be1551668a": {
       "type": "image-or-text",
       "blocks": {
-        "b534ccc7-6a83-4413-874c-69515a0be31b": {
-          "type": "image",
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
+          "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Group.png",
+            "url": "",
+            "heading": "Your heading text will go here.",
+            "button_text": "Call To Action Text Here"
           }
         },
-        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556": {
-          "type": "text",
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
+          "type": "link-card",
           "settings": {
-            "spacing": "both",
-            "alignment": "left",
-            "small_heading": "Save Your Time & Money",
-            "heading": "Upgrade Your Shopify Store Today!",
-            "body": "<p>With Optimo, you can build your own website and start selling online in minutes. All you need to do is: <\/p><ol><li>Upload your photos.<\/li><li>Add your text.<\/li><li>Add your products. <\/li><\/ol><p>You can even customize your theme to make your store look unique. And our video tutorials will walk you through every step of the way.<\/p><p>So what are you waiting for? Upgrade your Shopify store today!<\/p>",
-            "button_text": "Upgrade To Optimo",
-            "button_url": "shopify:\/\/products\/optimo"
+            "image": "shopify:\/\/shop_images\/product-2.png",
+            "url": "",
+            "heading": "ADIPISCI VELIT",
+            "button_text": "SHOP NOW"
           }
         }
       },
       "block_order": [
-        "b534ccc7-6a83-4413-874c-69515a0be31b",
-        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556"
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242",
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db"
       ],
-      "disabled": true,
       "settings": {
         "spacing": "both",
         "color": "normal",
