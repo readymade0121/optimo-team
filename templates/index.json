@@ -109,6 +109,16 @@
         "text_width": 400
       }
     },
+    "2faa8948-8532-4eb8-8204-5bc88a48b747": {
+      "type": "intro-text",
+      "settings": {
+        "color": "normal",
+        "spacing": "top",
+        "small_heading": "Your smallheading text will go here.",
+        "heading": "Sed Do Eiusmod Tempor Incdidunt Ut Laore Et Dolore",
+        "text": ""
+      }
+    },
     "45b904b3-e45b-4d5a-8243-e47ac643a830": {
       "type": "grid",
       "blocks": {
@@ -659,6 +669,7 @@
   "order": [
     "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
+    "2faa8948-8532-4eb8-8204-5bc88a48b747",
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
     "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca",
     "eabcb187-0d81-44f8-900f-78388749dad4",
