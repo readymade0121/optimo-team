@@ -200,7 +200,7 @@
     "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca": {
       "type": "intro-text",
       "settings": {
-        "color": "normal",
+        "color": "alt",
         "spacing": "top",
         "small_heading": "Your smallheading text will go here.",
         "heading": "Totam Rem Aperiam",
