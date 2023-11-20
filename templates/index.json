@@ -203,8 +203,8 @@
       "settings": {
         "color": "alt",
         "spacing": "top",
-        "small_heading": "Your smallheading text will go here.",
-        "heading": "Totam Rem Aperiam",
+        "small_heading": "NEW ARRIVALS",
+        "heading": "Shop Apparel",
         "text": ""
       }
     },
@@ -215,7 +215,7 @@
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
         "color": "alt",
-        "collection": "all-products",
+        "collection": "hoodies",
         "count": 4,
         "product_hover": false
       }
