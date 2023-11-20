@@ -115,7 +115,7 @@
       "settings": {
         "color": "normal",
         "spacing": "top",
-        "small_heading": "Your smallheading text will go here.",
+        "small_heading": "SHOP BY CATEGORY",
         "heading": "Sed Do Eiusmod Tempor Incdidunt Ut Laore Et Dolore",
         "text": ""
       }
@@ -126,49 +126,55 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "title": "Mobile First",
+            "image": "shopify:\/\/shop_images\/hoodie.png",
+            "title": "Hoodie",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections\/hoodies"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "title": "New Updates",
+            "image": "shopify:\/\/shop_images\/tshirt.png",
+            "title": "T-Shirt",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections\/t-shirt"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "title": "Custom PDP",
+            "image": "shopify:\/\/shop_images\/sweater.png",
+            "title": "Sweater",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections\/women"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "title": "Built-in CRO",
+            "image": "shopify:\/\/shop_images\/bottom.png",
+            "title": "Bottom",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections\/bottom"
           }
         },
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "title": "UGC Slider",
+            "image": "shopify:\/\/shop_images\/newarrival.png",
+            "title": "New Arrival",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections\/men"
           }
         },
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "title": "Community",
+            "image": "shopify:\/\/shop_images\/bestseller.png",
+            "title": "Best Seller",
             "body": "",
-            "url": ""
+            "url": "shopify:\/\/collections"
           }
         }
       },
