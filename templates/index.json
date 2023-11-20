@@ -348,6 +348,7 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_5_1.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
@@ -388,19 +389,21 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f9f9f9"
+            "text_box_background": "#f1f2ff"
           }
         },
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval_1.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f9f9f9"
+            "text_box_background": "#f1f2ff"
           }
         }
       },
