@@ -82,9 +82,10 @@
         "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3": {
           "type": "buttons",
           "settings": {
-            "button_text": "Buy Optimo Now",
+            "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/products\/optimo",
             "secondary_btn_text": "",
+            "secondary_btn_icon": "shopify:\/\/shop_images\/Play.png",
             "button_border_radius": 10,
             "align_on_same_line": true,
             "uppercase_button": false,
@@ -101,8 +102,8 @@
       "settings": {
         "spacing": "none",
         "section_color": "normal",
-        "desktop": "shopify:\/\/shop_images\/background.png",
-        "mobile": "shopify:\/\/shop_images\/Zaverycakes_414x667_mobile-banner_2_1.png",
+        "desktop": "shopify:\/\/shop_images\/desktop-banner.png",
+        "mobile": "shopify:\/\/shop_images\/mobile-banner.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
@@ -125,7 +126,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1_1.png",
             "title": "Mobile First",
             "body": "",
             "url": ""
@@ -134,7 +134,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1_3.png",
             "title": "New Updates",
             "body": "",
             "url": ""
@@ -143,7 +142,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1_5.png",
             "title": "Custom PDP",
             "body": "",
             "url": ""
@@ -152,7 +150,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1.png",
             "title": "Built-in CRO",
             "body": "",
             "url": ""
@@ -161,7 +158,6 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1_2.png",
             "title": "UGC Slider",
             "body": "",
             "url": ""
@@ -170,7 +166,6 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Layer_1_4.png",
             "title": "Community",
             "body": "",
             "url": ""
@@ -237,7 +232,6 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
           }
         }
       },
@@ -266,7 +260,6 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group.png",
             "url": "",
             "heading": "LOREM IPSUM",
             "button_text": "SHOP NOW"
@@ -275,7 +268,6 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/product-2.png",
             "url": "",
             "heading": "ADIPISCI VELIT",
             "button_text": "SHOP NOW"
@@ -347,7 +339,6 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
