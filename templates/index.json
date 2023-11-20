@@ -238,6 +238,7 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2_1.png"
           }
         }
       },
@@ -266,6 +267,7 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
             "heading": "LOREM IPSUM",
             "button_text": "SHOP NOW"
@@ -274,6 +276,7 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
             "heading": "ADIPISCI VELIT",
             "button_text": "SHOP NOW"
@@ -286,7 +289,7 @@
       ],
       "settings": {
         "spacing": "both",
-        "color": "alt",
+        "color": "inverse",
         "contained": false,
         "block_spacing": 20
       }
