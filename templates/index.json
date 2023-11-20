@@ -257,7 +257,7 @@
       "type": "heading-text",
       "settings": {
         "spacing": "top",
-        "color": "alt",
+        "color": "inverse",
         "text": "Our Collections"
       }
     },
@@ -269,7 +269,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
-            "heading": "LOREM IPSUM",
+            "heading": "WOMEN",
             "button_text": "SHOP NOW"
           }
         },
@@ -278,7 +278,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
-            "heading": "ADIPISCI VELIT",
+            "heading": "MEN",
             "button_text": "SHOP NOW"
           }
         }
