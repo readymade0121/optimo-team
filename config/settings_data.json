@@ -69,7 +69,7 @@
           "badge_text_color": "#fff9f9",
           "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
           "logo_width": 60,
-          "nav": "",
+          "nav": "main-menu",
           "cart": true,
           "login": false,
           "search": false
