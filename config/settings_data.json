@@ -133,6 +133,7 @@
       "password-header": {
         "type": "password-header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
           "logo_max_width": "200"
         }
       },
@@ -140,7 +141,7 @@
         "type": "password-content",
         "settings": {
           "count_down": true,
-          "collection": "frontpage",
+          "collection": "hoodies",
           "date_picker": "12-24-2023",
           "title": "Opening Soon",
           "newsletter_enable": true,
