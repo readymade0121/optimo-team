@@ -82,10 +82,10 @@
         "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3": {
           "type": "buttons",
           "settings": {
-            "button_text": "Buy Optimo Now",
+            "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/products\/optimo",
             "secondary_btn_text": "",
-            "secondary_btn_icon": "shopify:\/\/shop_images\/icon_video_play_white.png",
+            "secondary_btn_icon": "shopify:\/\/shop_images\/Play.png",
             "button_border_radius": 10,
             "align_on_same_line": true,
             "uppercase_button": false,
@@ -102,12 +102,22 @@
       "settings": {
         "spacing": "none",
         "section_color": "normal",
-        "desktop": "shopify:\/\/shop_images\/Eczah_-_1x1_Shots_1600_x_700_px_3.png",
-        "mobile": "shopify:\/\/shop_images\/Optimo_Mock-ups_1.png",
+        "desktop": "shopify:\/\/shop_images\/desktop-banner.png",
+        "mobile": "shopify:\/\/shop_images\/mobile-banner.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
         "text_width": 400
+      }
+    },
+    "2faa8948-8532-4eb8-8204-5bc88a48b747": {
+      "type": "intro-text",
+      "settings": {
+        "color": "normal",
+        "spacing": "top",
+        "small_heading": "SHOP BY CATEGORY",
+        "heading": "Sed Do Eiusmod Tempor Incdidunt Ut Laore Et Dolore",
+        "text": ""
       }
     },
     "45b904b3-e45b-4d5a-8243-e47ac643a830": {
@@ -116,49 +126,55 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-01.png",
-            "title": "Mobile First",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/hoodie.png",
+            "title": "Hoodie",
+            "body": "",
+            "url": "shopify:\/\/collections\/hoodies"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-05.png",
-            "title": "New Updates",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/tshirt.png",
+            "title": "T-Shirt",
+            "body": "",
+            "url": "shopify:\/\/collections\/t-shirt"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-02.png",
-            "title": "Custom PDP",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/sweater.png",
+            "title": "Sweater",
+            "body": "",
+            "url": "shopify:\/\/collections\/women"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-03.png",
-            "title": "Built-in CRO",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/bottom.png",
+            "title": "Bottom",
+            "body": "",
+            "url": "shopify:\/\/collections\/bottom"
           }
         },
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-04.png",
-            "title": "UGC Slider",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/newarrival.png",
+            "title": "New Arrival",
+            "body": "",
+            "url": "shopify:\/\/collections\/men"
           }
         },
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/optimotheme_-06.png",
-            "title": "Community",
-            "body": ""
+            "image": "shopify:\/\/shop_images\/bestseller.png",
+            "title": "Best Seller",
+            "body": "",
+            "url": "shopify:\/\/collections"
           }
         }
       },
@@ -170,7 +186,9 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd",
         "c62685c6-f711-4832-abe0-f14c4fcdadbe"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "color": "normal",
         "images_on_mobile": "2",
@@ -178,6 +196,102 @@
         "images_on_desktop": "3",
         "text_align": "center",
         "limit_image_size": true
+      }
+    },
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca": {
+      "type": "intro-text",
+      "settings": {
+        "color": "alt",
+        "spacing": "top",
+        "small_heading": "NEW ARRIVALS",
+        "heading": "Shop Apparel",
+        "text": ""
+      }
+    },
+    "eabcb187-0d81-44f8-900f-78388749dad4": {
+      "type": "featured-collection",
+      "settings": {
+        "spacing": "both",
+        "horizontal_spacing": 26,
+        "vertical_spacing": 26,
+        "color": "alt",
+        "collection": "hoodies",
+        "count": 4,
+        "product_hover": false
+      }
+    },
+    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Your smallheading text will go here.",
+            "heading": "Your heading text will go here.",
+            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections"
+          }
+        },
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
+        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
+      "type": "heading-text",
+      "settings": {
+        "spacing": "top",
+        "color": "inverse",
+        "text": "Our Collections"
+      }
+    },
+    "27138591-9185-4f3c-8ca3-34be1551668a": {
+      "type": "image-or-text",
+      "blocks": {
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
+            "url": "",
+            "heading": "WOMEN",
+            "button_text": "SHOP NOW"
+          }
+        },
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1.png",
+            "url": "",
+            "heading": "MEN",
+            "button_text": "SHOP NOW"
+          }
+        }
+      },
+      "block_order": [
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242",
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "inverse",
+        "contained": false,
+        "block_spacing": 20
       }
     },
     "1ddd250b-223c-4adf-934e-bbee463f458a": {
@@ -205,7 +319,6 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-04T134704.150.png"
           }
         },
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
@@ -226,79 +339,34 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1"
       ],
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
-    "27138591-9185-4f3c-8ca3-34be1551668a": {
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6": {
       "type": "image-or-text",
       "blocks": {
-        "b534ccc7-6a83-4413-874c-69515a0be31b": {
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Spiritual_20.png"
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_5_1.png"
           }
         },
-        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556": {
-          "type": "text",
-          "settings": {
-            "spacing": "both",
-            "alignment": "left",
-            "small_heading": "Save Your Time & Money",
-            "heading": "Upgrade Your Shopify Store Today!",
-            "body": "<p>With Optimo, you can build your own website and start selling online in minutes. All you need to do is: <\/p><ol><li>Upload your photos.<\/li><li>Add your text.<\/li><li>Add your products. <\/li><\/ol><p>You can even customize your theme to make your store look unique. And our video tutorials will walk you through every step of the way.<\/p><p>So what are you waiting for? Upgrade your Shopify store today!<\/p>",
-            "button_text": "Upgrade To Optimo",
-            "button_url": "shopify:\/\/products\/optimo"
-          }
-        }
-      },
-      "block_order": [
-        "b534ccc7-6a83-4413-874c-69515a0be31b",
-        "8ebc05a9-d8d1-4a77-9b41-7a28de0ab556"
-      ],
-      "settings": {
-        "spacing": "both",
-        "color": "normal",
-        "contained": false,
-        "block_spacing": 20
-      }
-    },
-    "eabcb187-0d81-44f8-900f-78388749dad4": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "spacing": "both",
-        "horizontal_spacing": 26,
-        "vertical_spacing": 26,
-        "color": "normal",
-        "collection": "all-products",
-        "count": 1,
-        "product_hover": false
-      }
-    },
-    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
-      "type": "image-or-text",
-      "blocks": {
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
           "type": "text",
           "settings": {
             "spacing": "both",
             "alignment": "left",
             "small_heading": "Your smallheading text will go here.",
             "heading": "Your heading text will go here.",
-            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
-            "button_text": "Call To Action Text Here",
-            "button_url": ""
-          }
-        },
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Spiritual_19.png"
+            "body": "<p>Your body text will go here.<\/p>",
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections"
           }
         }
       },
       "block_order": [
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1",
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"
       ],
       "settings": {
         "spacing": "both",
@@ -307,27 +375,35 @@
         "block_spacing": 100
       }
     },
+    "7ff1d7ed-e5f8-481f-ad45-c91aa045b23f": {
+      "type": "heading-text",
+      "settings": {
+        "spacing": "top",
+        "color": "normal",
+        "text": "Customer Reviews"
+      }
+    },
     "086d1ac5-2174-4263-b13a-9d10a58c2537": {
       "type": "image-or-text",
       "blocks": {
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CH_44.png",
+            "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f9f9f9"
+            "text_box_background": "#f1f2ff"
           }
         },
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CH_25.png",
+            "image": "shopify:\/\/shop_images\/Oval_1.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f9f9f9"
+            "text_box_background": "#f1f2ff"
           }
         }
       },
@@ -410,28 +486,32 @@
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         },
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4": {
           "type": "grid_item",
           "settings": {
             "title": "Heading will goes here",
-            "body": "<p>Body Text will goes here<\/p>"
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
           }
         }
       },
@@ -441,6 +521,7 @@
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3",
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4"
       ],
+      "disabled": true,
       "settings": {
         "color": "normal",
         "images_on_mobile": "2",
@@ -492,6 +573,7 @@
         "573781a5-b93a-4123-8d80-fb79dcc2812e",
         "f5e9ac8c-2473-4245-9d08-bbb92c12d44c"
       ],
+      "disabled": true,
       "settings": {
         "card_background_color": "#f2f2f2",
         "cards_on_mobile": "1",
@@ -504,19 +586,23 @@
       "blocks": {
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1": {
           "type": "variants",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1": {
           "type": "quantity",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1": {
           "type": "buy",
@@ -526,11 +612,13 @@
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1": {
           "type": "trust",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1": {
           "type": "review",
@@ -573,6 +661,7 @@
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1",
         "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1"
       ],
+      "disabled": true,
       "settings": {
         "spacing": "both",
         "color": "normal",
@@ -583,11 +672,16 @@
   "order": [
     "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
+    "2faa8948-8532-4eb8-8204-5bc88a48b747",
     "45b904b3-e45b-4d5a-8243-e47ac643a830",
-    "1ddd250b-223c-4adf-934e-bbee463f458a",
-    "27138591-9185-4f3c-8ca3-34be1551668a",
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca",
     "eabcb187-0d81-44f8-900f-78388749dad4",
     "a5d9d414-2060-4b9a-a632-c8767dc35885",
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
+    "27138591-9185-4f3c-8ca3-34be1551668a",
+    "1ddd250b-223c-4adf-934e-bbee463f458a",
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6",
+    "7ff1d7ed-e5f8-481f-ad45-c91aa045b23f",
     "086d1ac5-2174-4263-b13a-9d10a58c2537",
     "36c4061f-b658-4892-9adb-3ad74bd58180",
     "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a",

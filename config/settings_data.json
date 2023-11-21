@@ -1,5 +1,41 @@
 {
   "current": {
+    "thumbnail_type": "slider",
+    "page_width": 1400,
+    "spacing": 40,
+    "body_font": "lato_n4",
+    "body_bold_font": "lato_n4",
+    "headings_font": "lato_n8",
+    "heading_fontsize": 30,
+    "uppercase": false,
+    "product_name_font": "lato_n4",
+    "text_color": "#070519",
+    "background_color": "#ffffff",
+    "background_2_color": "#f2f5f7",
+    "accent_color": "#080808",
+    "accent_text_color": "#000000",
+    "border_color": "#080808",
+    "button_color": "#2035e7",
+    "button_text_color": "#ffffff",
+    "star_color": "#f9a526",
+    "checkmark_color": "#000000",
+    "inverse_text_color": "#ffffff",
+    "inverse_background_color": "#ea0e0e",
+    "inverse_accent_color": "#ffffff",
+    "inverse_accent_text_color": "#ffffff",
+    "inverse_border_color": "#ffffff",
+    "inverse_button_color": "#132aef",
+    "inverse_button_text_color": "#0a0a0a",
+    "inverse_star_color": "#0a0a0a",
+    "inverse_checkmark_color": "#ffffff",
+    "button_style": "rounded",
+    "image_radius": 20,
+    "field_radius": 8,
+    "theme_media_type": "round",
+    "cart_drawer": true,
+    "grid_item_style": "standard",
+    "grid_x_spacing": 50,
+    "grid_y_spacing": 50,
     "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
@@ -10,42 +46,6 @@
     "checkout_body_font": "Source Sans Pro",
     "checkout_accent_color": "#a30000",
     "checkout_button_color": "#000000",
-    "thumbnail_type": "slider",
-    "page_width": 1400,
-    "spacing": 40,
-    "body_font": "lato_n4",
-    "body_bold_font": "lato_n4",
-    "headings_font": "lato_n8",
-    "heading_fontsize": 30,
-    "uppercase": false,
-    "product_name_font": "lato_n4",
-    "text_color": "#000000",
-    "background_color": "#ffffff",
-    "background_2_color": "#000000",
-    "accent_color": "#000000",
-    "accent_text_color": "#000000",
-    "border_color": "#000000",
-    "button_color": "#000000",
-    "button_text_color": "#ffffff",
-    "star_color": "#000000",
-    "checkmark_color": "#000000",
-    "inverse_text_color": "#ffffff",
-    "inverse_background_color": "#000000",
-    "inverse_accent_color": "#ffffff",
-    "inverse_accent_text_color": "#ffffff",
-    "inverse_border_color": "#ffffff",
-    "inverse_button_color": "#000000",
-    "inverse_button_text_color": "#ffffff",
-    "inverse_star_color": "#dd1d1d",
-    "inverse_checkmark_color": "#ffffff",
-    "button_style": "rounded",
-    "image_radius": 20,
-    "field_radius": 8,
-    "theme_media_type": "round",
-    "cart_drawer": true,
-    "grid_item_style": "standard",
-    "grid_x_spacing": 50,
-    "grid_y_spacing": 50,
     "background_3_color": "#f6f6f6",
     "sections": {
       "announcement-bar": {
@@ -60,17 +60,18 @@
         "type": "header",
         "settings": {
           "font_family": "default",
-          "font_size": "medium",
+          "font_size": "small",
           "bg_color": "#ffffff",
           "text_color": "#000000",
           "border_color": "#dddddd",
           "icon_color": "#000000",
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
-          "logo": "shopify:\/\/shop_images\/rol.png",
-          "logo_width": 105,
-          "nav": "main-menu",
+          "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
+          "logo_width": 60,
+          "nav": "",
           "cart": true,
+          "login": false,
           "search": false
         }
       },
@@ -80,12 +81,12 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/Optimo_logo-03.png",
-              "logo_width": 110,
+              "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
+              "logo_width": 95,
               "twitter": "",
               "facebook": "",
               "youtube": "",
-              "instagram": "https:\/\/instagram.com\/miandmy_co"
+              "instagram": ""
             }
           },
           "ce011e70-be89-4d49-8fa9-ab2fe3d81501": {
@@ -131,6 +132,8 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   }
 }
