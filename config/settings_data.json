@@ -36,6 +36,7 @@
     "grid_item_style": "standard",
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
+    "checkout_header_image": "shopify:\/\/shop_images\/desktop-banner.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
