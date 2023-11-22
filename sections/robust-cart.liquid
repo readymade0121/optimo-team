@@ -54,7 +54,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewbox="0 0 48 48"><path d="M10 25.5v-3h28v3Z"/></svg>
 {% endcapture %}
 
-{% assign shipping_value = 9900.0 %}
+{% comment %} {% assign shipping_value = 9900.0 %} {% endcomment %}
 <form action="{{ routes.cart_url }}" class="rc90-box" method="post">
   <div class="robust-cart-json" data-cart-json="{{ cart | json | escape }}"></div>
   {% comment %} Header Section {% endcomment %}
@@ -168,6 +168,7 @@
         {% if cart.item_count > 0 %}
           <div class="shipping-bar">
             <div>
+              {% assign shipping_value = section.settings.shipping_value | times:100 %}
               {% if shipping_value <= cart.total_price %}
                 <div>
                   <span class="rc90-totals-row-value">Free Shipping Unlocked!</span>
@@ -176,6 +177,7 @@
                 <div>
                   <span class="rc90-totals-row-value">
                     <span>{{ shipping_value | minus: cart.total_price | money_without_trailing_zeros }}</span> until free shipping
+                    {% comment %} <span>{{ section.settings.shipping_value }}</span> for shipping {% endcomment %}
                   </span>
                 </div>
               {% endif %}
@@ -322,6 +324,14 @@
       "id": "show_trust",
       "label": "Show trust badges",
       "default": true
+    },
+    {
+      "type": "range",
+      "id": "shipping_value",
+      "label": "Shipping Price",
+      "min": 0,
+      "max": 100,
+      "default": 50
     }
   ]
 }
