@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
+ {%- render 'layouthub_header' -%}
     {% include 'limespot' %}
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -130,7 +131,7 @@
     {% section 'announcement-bar' %}
     <div class="wrapper">
       {% section 'header' %}
-      {{ content_for_layout }}
+      <!--LayoutHub-Workspace-Start-->{{ content_for_layout }}<!--LayoutHub-Workspace-End-->
       <limespot></limespot>
       {% section 'footer' %}
       {% if settings.cart_drawer %}
@@ -268,5 +269,6 @@
         initProductCarousel(e);
       });
     </script>
-  </body>
+  {%- render 'layouthub_footer' -%} 
+ </body>
 </html>
