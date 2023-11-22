@@ -102,7 +102,7 @@
         "spacing": "none",
         "section_color": "normal",
         "desktop": "shopify:\/\/shop_images\/desktop-banner.png",
-        "mobile": "shopify:\/\/shop_images\/mobile-banner_1.png",
+        "mobile": "shopify:\/\/shop_images\/mobile-banner.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
@@ -237,7 +237,6 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
           }
         }
       },
@@ -266,7 +265,7 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1.png",
+            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
             "heading": "WOMEN",
             "button_text": "SHOP NOW"
@@ -275,7 +274,7 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
+            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
             "heading": "MEN",
             "button_text": "SHOP NOW"
@@ -318,7 +317,6 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
@@ -348,7 +346,6 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {

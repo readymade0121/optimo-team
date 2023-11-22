@@ -67,9 +67,9 @@
           "icon_color": "#000000",
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
-          "logo": "shopify:\/\/shop_images\/New_Logo_12_x_7_1.png",
-          "logo_width": 120,
-          "nav": "new-menu",
+          "logo": "shopify:\/\/shop_images\/10.png",
+          "logo_width": 70,
+          "nav": "",
           "cart": true,
           "login": false,
           "search": false
@@ -81,7 +81,6 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/New-Logo_-12-x-7_1.png",
               "logo_width": 150,
               "twitter": "",
               "facebook": "",
