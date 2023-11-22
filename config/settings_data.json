@@ -81,7 +81,8 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo_width": 95,
+              "logo": "shopify:\/\/shop_images\/New-Logo_-12-x-7_1.png",
+              "logo_width": 150,
               "twitter": "",
               "facebook": "",
               "youtube": "",
