@@ -120,14 +120,14 @@
         "settings": {
           "color": "inverse",
           "footer_disclaimer": "",
-          "copyright": "<p>© 2023 HEAVEN IS NOW! All rights Reserved<br\/>Theme Design By @the.shopify.guy<\/p>",
+          "copyright": "<p>© 2023 God's Armor Wear All rights Reserved<br\/>Theme Design By @the.shopify.guy<\/p>",
           "footer_border": true
         }
       },
       "robust-cart": {
         "type": "robust-cart",
         "settings": {
-          "show_dynamic": true,
+          "show_dynamic": false,
           "show_continue": false,
           "show_trust": true,
           "shipping_value": 50
