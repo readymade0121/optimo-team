@@ -40,6 +40,14 @@
             "title": "Hats",
             "url": ""
           }
+        },
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036": {
+          "type": "product_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcover-bound-notebook-black-front-655026f6c5bd9.png",
+            "title": "Accesories",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -47,7 +55,8 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3",
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4"
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4",
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036"
       ],
       "settings": {
         "usage": "both",
