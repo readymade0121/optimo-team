@@ -12,14 +12,9 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/unisex-premium-hoodie-black-back-654d7f219bf0f.jpg",
+            "title": "Hoodies",
             "url": ""
-          }
-        },
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2": {
-          "type": "video_item",
-          "settings": {
-            "title": "Testimonial"
           }
         },
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
@@ -47,14 +42,13 @@
       "block_order": [
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1",
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4"
       ],
       "settings": {
-        "usage": "mobile_only",
-        "border_size": 2
+        "usage": "both",
+        "border_size": 3
       }
     },
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8": {
