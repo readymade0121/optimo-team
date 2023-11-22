@@ -20,7 +20,8 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/unisex-performance-crew-neck-t-shirt-black-back-654bb8825b97e.jpg",
+            "title": "T-Shirts",
             "url": ""
           }
         },
