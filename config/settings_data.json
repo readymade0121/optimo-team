@@ -68,8 +68,8 @@
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
           "logo": "shopify:\/\/shop_images\/New_Logo_12_x_7_1.png",
-          "logo_width": 60,
-          "nav": "main-menu",
+          "logo_width": 120,
+          "nav": "new-menu",
           "cart": true,
           "login": false,
           "search": false
