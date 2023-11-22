@@ -72,7 +72,8 @@
       "blocks": {
         "a0b7b2aa-cabc-43d2-8e13-539144298bc9": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "ab5495c3-1922-4f25-9ef1-8a51ef0267d8": {
           "type": "price",
@@ -83,15 +84,18 @@
         "f2b0f2eb-046f-460e-a5cd-44ddf005a312": {
           "type": "quantity",
           "disabled": true,
-          "settings": {}
+          "settings": {
+          }
         },
         "99da7050-47eb-4945-b0c5-78af72d0d554": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "91878ec6-ac2e-42ba-93fe-e09ead7a39a9": {
           "type": "variants",
-          "settings": {}
+          "settings": {
+          }
         },
         "99fe5645-e03b-43ff-8997-8603b259e960": {
           "type": "buy",
@@ -109,7 +113,6 @@
           "type": "collapsable-row",
           "settings": {
             "heading": "Is Optimo really just $99\/month?",
-            "icon": "shopify:\/\/shop_images\/CH_62.png",
             "icon_size": 30,
             "body": "<p>Yes, it's true! I thought about pricing it only at $997 for a 1 time payment, but then I was like...\"Nah, let's give 'em a break!\" So, here you are. Getting the deal of the century.<br\/><\/p>"
           }
@@ -118,7 +121,6 @@
           "type": "collapsable-row",
           "settings": {
             "heading": "What if I'm not a tech wizard?",
-            "icon": "shopify:\/\/shop_images\/CH_62.png",
             "icon_size": 30,
             "body": "<p>No worries! Optimo is so user-friendly, even your grandma could set it up. And if she's busy, we've got a team of dedicated devs and concise 1-minute tutorials to help you out.<\/p>"
           }
@@ -127,7 +129,6 @@
           "type": "collapsable-row",
           "settings": {
             "heading": "Will my Mobile site look good?",
-            "icon": "shopify:\/\/shop_images\/CH_62.png",
             "icon_size": 30,
             "body": "<p>Will a bear do its business in the woods? Absolutely! Optimo is all about that \"mobile-first\" life. Your site will look so good on mobile, your customers won't be able to resist.<\/p>"
           }
@@ -135,20 +136,18 @@
         "8d0d01dc-8e00-4583-b405-cafb6dd7d72c": {
           "type": "three",
           "settings": {
-            "image1": "shopify:\/\/shop_images\/optimotheme_-07.png",
             "image1_width": 50,
             "text1": "Mobile First Ui\/Ux Design",
-            "image2": "shopify:\/\/shop_images\/optimotheme_-11.png",
             "image2_width": 50,
             "text2": "Design Updates Each Month",
-            "image3": "shopify:\/\/shop_images\/optimotheme_-09.png",
             "image3_width": 50,
             "text3": "Built-in CRO Best Practices"
           }
         },
         "6508f4dc-b85e-4acb-a286-acc209baefcf": {
           "type": "trust",
-          "settings": {}
+          "settings": {
+          }
         },
         "4c29635a-43a7-4336-ac20-ccdd1989bddc": {
           "type": "review",
@@ -247,17 +246,20 @@
     "judgeme_section_review_widget_a691": {
       "type": "apps",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "judgeme_section_review_widget_8444": {
       "type": "apps",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "judgeme_section_review_widget_2ca7": {
       "type": "apps",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "07e232ff-e97a-46d3-b1ab-b77d6cb0ee1e": {
       "type": "intro-text",
@@ -323,6 +325,21 @@
         "heading_size": "medium",
         "color": "normal"
       }
+    },
+    "170069103603320125": {
+      "type": "apps",
+      "blocks": {
+        "4894946d-1159-40e5-86fb-84c00c00c964": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "4894946d-1159-40e5-86fb-84c00c00c964"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -334,6 +351,7 @@
     "judgeme_section_review_widget_8444",
     "judgeme_section_review_widget_2ca7",
     "07e232ff-e97a-46d3-b1ab-b77d6cb0ee1e",
-    "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0"
+    "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0",
+    "170069103603320125"
   ]
 }
