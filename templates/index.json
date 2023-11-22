@@ -214,7 +214,7 @@
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
         "color": "alt",
-        "collection": "hoodies",
+        "collection": "heaven-is-now",
         "count": 4,
         "product_hover": false
       }
@@ -237,6 +237,7 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2.png"
           }
         }
       },
@@ -265,6 +266,7 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
             "heading": "WOMEN",
             "button_text": "SHOP NOW"
@@ -273,6 +275,7 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
             "heading": "MEN",
             "button_text": "SHOP NOW"
@@ -315,6 +318,7 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
@@ -344,6 +348,7 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_5.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
@@ -384,6 +389,7 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
@@ -393,6 +399,7 @@
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval_1.png",
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
