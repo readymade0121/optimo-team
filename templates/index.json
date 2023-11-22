@@ -12,34 +12,40 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/unisex-premium-hoodie-black-back-654d7f219bf0f.jpg",
+            "title": "Hoodies",
             "url": ""
-          }
-        },
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2": {
-          "type": "video_item",
-          "settings": {
-            "title": "Testimonial"
           }
         },
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/unisex-performance-crew-neck-t-shirt-black-back-654bb8825b97e.jpg",
+            "title": "T-Shirts",
             "url": ""
           }
         },
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/youth-long-sleeve-tee-black-front-65107ea3a5336.jpg",
+            "title": "Long Sleeve",
             "url": ""
           }
         },
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/5-panel-trucker-cap-black-white-left-front-65541f30b8a3c.png",
+            "title": "Hats",
+            "url": ""
+          }
+        },
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036": {
+          "type": "product_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hardcover-bound-notebook-black-front-655026f6c5bd9.png",
+            "title": "Accesories",
             "url": ""
           }
         }
@@ -47,14 +53,14 @@
       "block_order": [
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1",
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-2",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2",
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3",
-        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4"
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4",
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036"
       ],
       "settings": {
-        "usage": "mobile_only",
-        "border_size": 2
+        "usage": "both",
+        "border_size": 3
       }
     },
     "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8": {
@@ -64,7 +70,7 @@
           "type": "star-bar",
           "settings": {
             "five_star_title": "Happy Customers",
-            "star_size": 16
+            "star_size": 19
           }
         },
         "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1": {
@@ -85,7 +91,6 @@
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/products\/optimo",
             "secondary_btn_text": "",
-            "secondary_btn_icon": "shopify:\/\/shop_images\/Play.png",
             "button_border_radius": 10,
             "align_on_same_line": true,
             "uppercase_button": false,
@@ -116,7 +121,7 @@
         "color": "normal",
         "spacing": "top",
         "small_heading": "SHOP BY CATEGORY",
-        "heading": "Sed Do Eiusmod Tempor Incdidunt Ut Laore Et Dolore",
+        "heading": "",
         "text": ""
       }
     },
@@ -215,7 +220,7 @@
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
         "color": "alt",
-        "collection": "hoodies",
+        "collection": "heaven-is-now",
         "count": 4,
         "product_hover": false
       }
@@ -238,7 +243,6 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_2_1.png"
           }
         }
       },
@@ -310,7 +314,7 @@
         "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1": {
           "type": "body_text",
           "settings": {
-            "title": "<p>Its cutting-edge design and intuitive interface make it a favorite choice for both startups and established brands looking to create an engaging online store. With multiple pre-built layouts and style options, Optimo allows businesses to shape their store's appearance to match their brand identity, offering a seamless and captivating shopping experience. Its cutting-edge design and intuitive interface make it a favorite choice for both startups and established brands looking to create an engaging online store. With multiple pre-built layouts and style options, Optimo allows businesses to shape their store's appearance to match their brand identity, offering a seamless and captivating shopping experience.<\/p>",
+            "title": "",
             "body_font_size": 14,
             "body_text_color": "#ffffff",
             "body_bg_color": "#000000"
@@ -348,7 +352,6 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5_1.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
@@ -393,7 +396,7 @@
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f1f2ff"
+            "text_box_background": "#f6edf6"
           }
         },
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
@@ -403,7 +406,7 @@
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f1f2ff"
+            "text_box_background": "#f6edf6"
           }
         }
       },

@@ -11,21 +11,21 @@
     "product_name_font": "lato_n4",
     "text_color": "#070519",
     "background_color": "#ffffff",
-    "background_2_color": "#f2f5f7",
+    "background_2_color": "#f6edf6",
     "accent_color": "#080808",
     "accent_text_color": "#000000",
     "border_color": "#080808",
-    "button_color": "#2035e7",
+    "button_color": "#005b48",
     "button_text_color": "#ffffff",
     "star_color": "#f9a526",
     "checkmark_color": "#000000",
     "inverse_text_color": "#ffffff",
-    "inverse_background_color": "#ea0e0e",
+    "inverse_background_color": "#132aef",
     "inverse_accent_color": "#ffffff",
     "inverse_accent_text_color": "#ffffff",
     "inverse_border_color": "#ffffff",
     "inverse_button_color": "#132aef",
-    "inverse_button_text_color": "#0a0a0a",
+    "inverse_button_text_color": "#dd1d1d",
     "inverse_star_color": "#0a0a0a",
     "inverse_checkmark_color": "#ffffff",
     "button_style": "rounded",
@@ -36,6 +36,7 @@
     "grid_item_style": "standard",
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
+    "checkout_header_image": "shopify:\/\/shop_images\/desktop-banner.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
@@ -51,8 +52,8 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "color": "#ffffff",
-          "text": "<p>Upgrade to Optimo & Grow your store today!<\/p>",
+          "color": "normal",
+          "text": "<p>FREE SHIPPING FOR ORDER OVER $100<\/p>",
           "url": "shopify:\/\/products\/optimo"
         }
       },
@@ -67,7 +68,8 @@
           "icon_color": "#000000",
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
-          "logo_width": 60,
+          "logo": "shopify:\/\/shop_images\/10.png",
+          "logo_width": 70,
           "nav": "",
           "cart": true,
           "login": false,
@@ -80,7 +82,7 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo_width": 95,
+              "logo_width": 150,
               "twitter": "",
               "facebook": "",
               "youtube": "",
@@ -117,7 +119,7 @@
         "settings": {
           "color": "inverse",
           "footer_disclaimer": "",
-          "copyright": "<p>© 2023 The Optimo Theme. All Rights Reserved <\/p><p>Theme Design By <a href=\"https:\/\/instagram.com\/the.shopify.guy?igshid=YmMyMTA2M2Y=\"><strong>@the.shopify.guy<\/strong><\/a><\/p>",
+          "copyright": "<p>© 2023 HEAVEN IS NOW! All rights Reserved<br\/>Theme Design By @the.shopify.guy<\/p>",
           "footer_border": true
         }
       },
@@ -132,6 +134,7 @@
       "password-header": {
         "type": "password-header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
           "logo_max_width": "200"
         }
       },
@@ -139,7 +142,7 @@
         "type": "password-content",
         "settings": {
           "count_down": true,
-          "collection": "frontpage",
+          "collection": "hoodies",
           "date_picker": "12-24-2023",
           "title": "Opening Soon",
           "newsletter_enable": true,
