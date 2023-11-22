@@ -393,7 +393,7 @@
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f1f2ff"
+            "text_box_background": "#f6edf6"
           }
         },
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
@@ -403,7 +403,7 @@
             "stars": 5,
             "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
             "reviewer": "Sample R",
-            "text_box_background": "#f1f2ff"
+            "text_box_background": "#f6edf6"
           }
         }
       },
