@@ -82,11 +82,12 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
+              "logo": "shopify:\/\/shop_images\/10.png",
               "logo_width": 150,
               "twitter": "",
-              "facebook": "",
+              "facebook": "https:\/\/facebook.com\/GodsArmorWare",
               "youtube": "",
-              "instagram": ""
+              "instagram": "https:\/\/instagram.com\/GodsArmorWear"
             }
           },
           "ce011e70-be89-4d49-8fa9-ab2fe3d81501": {
