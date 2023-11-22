@@ -15,7 +15,7 @@
     "accent_color": "#080808",
     "accent_text_color": "#000000",
     "border_color": "#080808",
-    "button_color": "#005b48",
+    "button_color": "#dd1d1d",
     "button_text_color": "#ffffff",
     "star_color": "#f9a526",
     "checkmark_color": "#000000",
@@ -24,9 +24,9 @@
     "inverse_accent_color": "#ffffff",
     "inverse_accent_text_color": "#ffffff",
     "inverse_border_color": "#ffffff",
-    "inverse_button_color": "#132aef",
-    "inverse_button_text_color": "#dd1d1d",
-    "inverse_star_color": "#0a0a0a",
+    "inverse_button_color": "#dd1d1d",
+    "inverse_button_text_color": "#ffffff",
+    "inverse_star_color": "#f9a526",
     "inverse_checkmark_color": "#ffffff",
     "button_style": "rounded",
     "image_radius": 20,
@@ -37,7 +37,7 @@
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
     "checkout_header_image": "shopify:\/\/shop_images\/desktop-banner.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/BEST_VALUE_1000_x_1000_px_600_x_250_px_3.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/10.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#f7f5ef",
@@ -45,14 +45,14 @@
     "checkout_sidebar_background_color": "#000000",
     "checkout_heading_font": "Source Sans Pro",
     "checkout_body_font": "Source Sans Pro",
-    "checkout_accent_color": "#a30000",
+    "checkout_accent_color": "#132aef",
     "checkout_button_color": "#000000",
     "background_3_color": "#f6f6f6",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "color": "normal",
+          "color": "inverse",
           "text": "<p>FREE SHIPPING FOR ORDER OVER $100<\/p>",
           "url": "shopify:\/\/products\/optimo"
         }
@@ -65,7 +65,7 @@
           "bg_color": "#ffffff",
           "text_color": "#000000",
           "border_color": "#dddddd",
-          "icon_color": "#000000",
+          "icon_color": "#dd1d1d",
           "badge_color": "#ff0000",
           "badge_text_color": "#fff9f9",
           "logo": "shopify:\/\/shop_images\/10.png",
@@ -128,7 +128,8 @@
         "settings": {
           "show_dynamic": true,
           "show_continue": false,
-          "show_trust": true
+          "show_trust": true,
+          "shipping_value": 50
         }
       },
       "password-header": {
