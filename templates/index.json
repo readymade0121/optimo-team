@@ -88,6 +88,7 @@
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/products\/optimo",
             "secondary_btn_text": "",
+            "secondary_btn_icon": "shopify:\/\/shop_images\/Play.png",
             "button_border_radius": 10,
             "align_on_same_line": true,
             "uppercase_button": false,
@@ -269,16 +270,18 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_2.png",
             "url": "",
-            "heading": "WOMEN",
+            "heading": "AGENT GEAR",
             "button_text": "SHOP NOW"
           }
         },
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img2.png",
             "url": "",
-            "heading": "MEN",
+            "heading": "BOOKS, ARTS & TOYS",
             "button_text": "SHOP NOW"
           }
         }
@@ -348,17 +351,17 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Group.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "spacing": "both",
             "alignment": "left",
-            "small_heading": "Your smallheading text will go here.",
-            "heading": "Your heading text will go here.",
-            "body": "<p>Your body text will go here.<\/p>",
+            "small_heading": "Leap of Faith",
+            "heading": "Wear Your Courage and show off the bold pursuit of your dreams.",
+            "body": "<p>Take a \"Leap of Faith\" with our dark grey tee, inspired by our founder's journey into the world of comic creation. This shirt is not just a piece of clothing; it's a symbol of believing in yourself and achieving the impossible. Marking a pivotal moment in Myth Division’s very first comic book series, this shirt is an homage to the risks taken at the beginning of any difficult journey. Made from the same comfortable materials and available in both men's and women's sizes, it's a reminder that dreams are worth pursuing.<\/p>",
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/collections"
           }
@@ -389,6 +392,7 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
             "review": "I love this hoodie very much. I'm a fan of Gods Armor Wear product. I can express my faith!",
             "reviewer": "J.R",
@@ -398,6 +402,7 @@
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Oval_1.png",
             "stars": 5,
             "review": "Gods Armor Wear allows me to share my faith with others & I don't even need to speak. Amazing product & Comfortable",
             "reviewer": "Sample R",

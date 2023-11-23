@@ -15,12 +15,12 @@
     "accent_color": "#080808",
     "accent_text_color": "#000000",
     "border_color": "#080808",
-    "button_color": "#dd1d1d",
+    "button_color": "#4b0082",
     "button_text_color": "#ffffff",
     "star_color": "#f9a526",
     "checkmark_color": "#000000",
     "inverse_text_color": "#ffffff",
-    "inverse_background_color": "#132aef",
+    "inverse_background_color": "#4b0082",
     "inverse_accent_color": "#ffffff",
     "inverse_accent_text_color": "#ffffff",
     "inverse_border_color": "#ffffff",
@@ -53,7 +53,7 @@
         "type": "announcement-bar",
         "settings": {
           "color": "inverse",
-          "text": "<p>FREE SHIPPING FOR ORDER OVER $100<\/p>",
+          "text": "",
           "url": "shopify:\/\/products\/optimo"
         }
       },
@@ -82,7 +82,8 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo_width": 150,
+              "logo": "shopify:\/\/shop_images\/d7715a8718b5-myth_division_initials_logo_white_ang_black__v3_1.png",
+              "logo_width": 55,
               "twitter": "",
               "facebook": "https:\/\/facebook.com\/GodsArmorWare",
               "youtube": "",
