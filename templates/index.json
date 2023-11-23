@@ -429,20 +429,6 @@
     "36c4061f-b658-4892-9adb-3ad74bd58180": {
       "type": "faqs",
       "blocks": {
-        "c06b412f-29f3-4557-b72f-447cb6e07ae9": {
-          "type": "section",
-          "settings": {
-            "heading": "Is Optimo really $99\/mo?",
-            "body": "<p>Yes, it's true! We thought about pricing it at $997, but then we thought, \"Nah, let's give 'em a break!\" So, here we are, offering you the deal of the century.<\/p><p>And if you get stuck, our helpful community can help you out.<\/p><p><strong>Upgrade to Optimo today to help you grow your business.<\/strong><\/p>"
-          }
-        },
-        "a2bc8c59-a878-44ac-84c3-fb5e33f0f991": {
-          "type": "section",
-          "settings": {
-            "heading": "What if i'm not a tech wiz?",
-            "body": "<p>No worries! Optimo is so user-friendly, even your grandma could set it up. <\/p><p>And if she's busy, we've got a team of dedicated devs and concise 1-minute tutorials to help you out.<\/p>"
-          }
-        },
         "1bdd2c90-51c7-420b-84b0-73ce70a5afe9": {
           "type": "section",
           "settings": {
@@ -473,8 +459,6 @@
         }
       },
       "block_order": [
-        "c06b412f-29f3-4557-b72f-447cb6e07ae9",
-        "a2bc8c59-a878-44ac-84c3-fb5e33f0f991",
         "1bdd2c90-51c7-420b-84b0-73ce70a5afe9",
         "5bb7edee-01d6-4a6b-8b28-d0a578996410",
         "ebc001ae-0148-46d0-8401-a6530c90c24a",
