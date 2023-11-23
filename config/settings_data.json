@@ -52,8 +52,8 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "color": "inverse",
-          "text": "",
+          "color": "normal",
+          "text": "<p>GET 10% OFF YOUR FIRST ORDER<\/p>",
           "url": "shopify:\/\/products\/optimo"
         }
       },
