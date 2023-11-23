@@ -95,14 +95,17 @@
         <ul id="main-slider">
           {% for image in product.images %}
             <li class="product-main-image-thumb {% if img == image %}product-main-image-thumb--selected{% endif %}">
-              <img src="{{ image | img_url: 'master' }}">
+              <img src="{{ image | img_url: 'master' }}" />
             </li>
           {% endfor %}
         </ul>
         <ul id="thumbnail-slider">
+          {% assign thumbnail_id = 0 %}
           {% for image in product.images %}
             <li class="product-main-image-thumb {% if img == image %}product-main-image-thumb--selected{% endif %}">
-              <img src="{{ image | img_url: 'master' }}">
+              <img src="{{ image | img_url: 'master' }}"
+                id="thumblabel-{% increment thumbnail_id %}" />
+              <div>{{ image }}</div>
             </li>
           {% endfor %}
         </ul>
@@ -169,6 +172,7 @@
                             <li>
                               <img
                                 style="width:60px; border-radius:10px"
+                                class="color_picker"
                                 id="{% increment variant_id %}"
                                 src="{{variant.image.src | img_url: 'small'}}"
                                 alt="{{variant.title}}"
@@ -403,11 +407,12 @@
 
   
   $(document).ready(function () {
-    $("img").click(function(){
+    $(".color_picker").click(function(){
       {% comment %} console.log('+++++'); {% endcomment %}
       var t = $(this).attr('id');
       $("img").css("border","none");
       $(this).css("border","1px solid black");
+      $("#thumblabel-"+t).trigger('click');
       $("#label-"+t).trigger('click');
     });
 
