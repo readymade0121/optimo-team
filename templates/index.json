@@ -231,6 +231,7 @@
       "blocks": {
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "spacing": "both",
             "alignment": "left",
@@ -359,6 +360,7 @@
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "spacing": "both",
             "alignment": "left",
@@ -397,8 +399,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
-            "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
-            "reviewer": "Sample R",
+            "review": "I love this hoodie very much. I'm a fan of Gods Armor Wear product. I can express my faith!",
+            "reviewer": "J.R",
             "text_box_background": "#f6edf6"
           }
         },
