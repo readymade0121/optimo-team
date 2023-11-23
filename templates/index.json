@@ -13,7 +13,6 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1": {
           "type": "product_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/unisex-premium-hoodie-black-back-654d7f219bf0f.jpg",
             "title": "Hoodies",
             "url": ""
           }
@@ -21,7 +20,6 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
           "type": "product_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/unisex-performance-crew-neck-t-shirt-black-back-654bb8825b97e.jpg",
             "title": "T-Shirts",
             "url": ""
           }
@@ -29,7 +27,6 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3": {
           "type": "product_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/youth-long-sleeve-tee-black-front-65107ea3a5336.jpg",
             "title": "Long Sleeve",
             "url": ""
           }
@@ -37,7 +34,6 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4": {
           "type": "product_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5-panel-trucker-cap-black-white-left-front-65541f30b8a3c.png",
             "title": "Hats",
             "url": ""
           }
@@ -45,7 +41,6 @@
         "8fdad471-8ce9-4d87-a9be-2bf72b912036": {
           "type": "product_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hardcover-bound-notebook-black-front-655026f6c5bd9.png",
             "title": "Accesories",
             "url": ""
           }
@@ -59,6 +54,7 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4",
         "8fdad471-8ce9-4d87-a9be-2bf72b912036"
       ],
+      "disabled": true,
       "settings": {
         "usage": "both",
         "border_size": 3
@@ -108,8 +104,8 @@
       "settings": {
         "spacing": "none",
         "section_color": "normal",
-        "desktop": "shopify:\/\/shop_images\/desktop-banner.png",
-        "mobile": "shopify:\/\/shop_images\/mobile-banner.png",
+        "desktop": "shopify:\/\/shop_images\/desktop-banner_1.png",
+        "mobile": "shopify:\/\/shop_images\/mobile-banner_2.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
@@ -132,7 +128,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hoodie.png",
+            "image": "shopify:\/\/shop_images\/hoodie_1.png",
             "title": "Hoodie",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
@@ -141,7 +137,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tshirt.png",
+            "image": "shopify:\/\/shop_images\/tshirt_1.png",
             "title": "T-Shirt",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
@@ -150,8 +146,8 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sweater.png",
-            "title": "Sweater",
+            "image": "shopify:\/\/shop_images\/sweater_1.png",
+            "title": "Collectibles",
             "body": "",
             "url": "shopify:\/\/collections\/women"
           }
@@ -159,8 +155,8 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bottom.png",
-            "title": "Bottom",
+            "image": "shopify:\/\/shop_images\/bottom_1.png",
+            "title": "Comics",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
           }
@@ -168,8 +164,8 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/newarrival.png",
-            "title": "New Arrival",
+            "image": "shopify:\/\/shop_images\/accessories.png",
+            "title": "Plushies",
             "body": "",
             "url": "shopify:\/\/collections\/men"
           }
@@ -177,8 +173,8 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bestseller.png",
-            "title": "Best Seller",
+            "image": "shopify:\/\/shop_images\/newarrival_1.png",
+            "title": "New Arrival",
             "body": "",
             "url": "shopify:\/\/collections"
           }
@@ -245,7 +241,6 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_2_1.png"
           }
         }
       },
@@ -274,7 +269,6 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
             "heading": "WOMEN",
             "button_text": "SHOP NOW"
@@ -283,7 +277,6 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
             "heading": "MEN",
             "button_text": "SHOP NOW"
@@ -355,7 +348,6 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5_1.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
@@ -397,7 +389,6 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Oval.png",
             "stars": 5,
             "review": "I love this hoodie very much. I'm a fan of Gods Armor Wear product. I can express my faith!",
             "reviewer": "J.R",
@@ -407,7 +398,6 @@
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Oval_1.png",
             "stars": 5,
             "review": "Gods Armor Wear allows me to share my faith with others & I don't even need to speak. Amazing product & Comfortable",
             "reviewer": "Sample R",
