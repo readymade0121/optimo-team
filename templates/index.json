@@ -217,7 +217,7 @@
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
         "color": "alt",
-        "collection": "hoodies",
+        "collection": "frontpage",
         "count": 4,
         "product_hover": false
       }
@@ -227,13 +227,12 @@
       "blocks": {
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "spacing": "both",
             "alignment": "left",
-            "small_heading": "Your smallheading text will go here.",
-            "heading": "Your heading text will go here.",
-            "body": "<p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p><ul><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><li>Bullet point about the product goes here.<\/li><\/ul><p>This is about the amount of text you want on here. This is about the amount of text you want on here. <\/p>",
+            "small_heading": "American Ape: Anime Rumble Edition Tee",
+            "heading": "Ready to Rumble! Show off your  fighting spirit with this anime Bored Ape Tee.",
+            "body": "<p>Gear up for digital battle with the hard hitting American Ape Tee, featuring the anime inspired version of the amnesiac title BAYC character and the ruthless Bounty Hunter, Murphy, the Deathbot Killer. Designed by the legendary RIOT Games artist, Jon Lam, this tee blends cotton, rayon, and polyester for an irresistibly soft touch that will not shrink in the wash.<\/p><p>When you slip into one of these shirts, you're not just wearing a t-shirt; you're donning the essence of good old fashioned fisticuffs. Lovers of the epic anime fight will love this one. Wear this American Ape tee and let the world know you're not afraid to embrace your inner badass.<\/p>",
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/collections"
           }
@@ -241,6 +240,7 @@
         "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/image_4_3_copy_2_1.png"
           }
         }
       },
