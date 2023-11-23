@@ -5,6 +5,7 @@
       "blocks": {
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1": {
           "type": "video_item",
+          "disabled": true,
           "settings": {
             "title": "Testimonial"
           }
@@ -58,7 +59,6 @@
         "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4",
         "8fdad471-8ce9-4d87-a9be-2bf72b912036"
       ],
-      "disabled": true,
       "settings": {
         "usage": "both",
         "border_size": 3
