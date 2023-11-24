@@ -156,7 +156,8 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "title": "Comics",
+            "image": "shopify:\/\/shop_images\/bottom.png",
+            "title": "Bootom",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
           }
@@ -164,7 +165,8 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "title": "Plushies",
+            "image": "shopify:\/\/shop_images\/newarrival.png",
+            "title": "New Arrival",
             "body": "",
             "url": "shopify:\/\/collections\/men"
           }
@@ -172,7 +174,8 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "title": "New Arrival",
+            "image": "shopify:\/\/shop_images\/bestseller.png",
+            "title": "Best Seller",
             "body": "",
             "url": "shopify:\/\/collections"
           }
