@@ -105,8 +105,8 @@
       "settings": {
         "spacing": "none",
         "section_color": "normal",
-        "desktop": "shopify:\/\/shop_images\/desktop-banner.png",
-        "mobile": "shopify:\/\/shop_images\/mobile-banner.png",
+        "desktop": "shopify:\/\/shop_images\/desktop-banner_1.png",
+        "mobile": "shopify:\/\/shop_images\/mobile-banner_2.png",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "top",
@@ -129,7 +129,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hoodie.png",
             "title": "Hoodie",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
@@ -138,7 +137,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tshirt.png",
             "title": "T-Shirt",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
@@ -147,7 +145,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sweater.png",
             "title": "Sweater",
             "body": "",
             "url": "shopify:\/\/collections\/women"
@@ -156,7 +153,6 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bottom.png",
             "title": "Bootom",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
@@ -165,7 +161,6 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/newarrival.png",
             "title": "New Arrival",
             "body": "",
             "url": "shopify:\/\/collections\/men"
@@ -174,7 +169,6 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bestseller.png",
             "title": "Best Seller",
             "body": "",
             "url": "shopify:\/\/collections"
@@ -270,7 +264,6 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
             "heading": "WOMEN",
             "button_text": "SHOP NOW"
@@ -279,7 +272,6 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
             "heading": "MEN",
             "button_text": "SHOP NOW"
@@ -351,7 +343,6 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image_4_3_copy_5_1.png"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
