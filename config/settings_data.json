@@ -82,7 +82,8 @@
           "12cc5c40-6f49-4bbd-8d3a-96144125fd9e": {
             "type": "logo-social",
             "settings": {
-              "logo_width": 55,
+              "logo": "shopify:\/\/shop_images\/a8eac3eba8e0-gods_armor2_1.png",
+              "logo_width": 115,
               "twitter": "",
               "facebook": "https:\/\/facebook.com\/GodsArmorWare",
               "youtube": "",
