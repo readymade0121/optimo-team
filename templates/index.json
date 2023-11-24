@@ -270,16 +270,18 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_1.png",
             "url": "",
-            "heading": "AGENT GEAR",
+            "heading": "WOMEN",
             "button_text": "SHOP NOW"
           }
         },
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1.png",
             "url": "",
-            "heading": "BOOKS, ARTS & TOYS",
+            "heading": "MEN",
             "button_text": "SHOP NOW"
           }
         }
