@@ -129,6 +129,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hoodie.png",
             "title": "Hoodie",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
@@ -137,6 +138,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tshirt.png",
             "title": "T-Shirt",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
