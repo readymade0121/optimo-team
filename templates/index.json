@@ -129,6 +129,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hoodie_1.png",
             "title": "Hoodie",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
@@ -137,6 +138,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tshirt_1.png",
             "title": "T-Shirt",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
@@ -145,6 +147,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sweater_1.png",
             "title": "Sweater",
             "body": "",
             "url": "shopify:\/\/collections\/women"
@@ -153,6 +156,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bottom_1.png",
             "title": "Bootom",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
@@ -161,6 +165,7 @@
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/newarrival_1.png",
             "title": "New Arrival",
             "body": "",
             "url": "shopify:\/\/collections\/men"
@@ -169,6 +174,7 @@
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/accessories.png",
             "title": "Best Seller",
             "body": "",
             "url": "shopify:\/\/collections"
