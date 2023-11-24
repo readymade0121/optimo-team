@@ -270,6 +270,7 @@
         "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img1_2.png",
             "url": "",
             "heading": "WOMEN",
             "button_text": "SHOP NOW"
@@ -278,6 +279,7 @@
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
           "type": "link-card",
           "settings": {
+            "image": "shopify:\/\/shop_images\/collection-img2.png",
             "url": "",
             "heading": "MEN",
             "button_text": "SHOP NOW"
