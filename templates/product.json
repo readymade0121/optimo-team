@@ -136,12 +136,15 @@
         "8d0d01dc-8e00-4583-b405-cafb6dd7d72c": {
           "type": "three",
           "settings": {
+            "image1": "shopify:\/\/shop_images\/icons8-shipping-48.png",
             "image1_width": 50,
-            "text1": "Mobile First Ui\/Ux Design",
+            "text1": "Fast Shipping",
+            "image2": "shopify:\/\/shop_images\/icons8-reviews-68.png",
             "image2_width": 50,
-            "text2": "Design Updates Each Month",
+            "text2": "5-Star Reviews",
+            "image3": "shopify:\/\/shop_images\/icons8-exchange-60.png",
             "image3_width": 50,
-            "text3": "Built-in CRO Best Practices"
+            "text3": "Easy Exchange"
           }
         },
         "6508f4dc-b85e-4acb-a286-acc209baefcf": {
@@ -161,11 +164,6 @@
             "reviewer": "Sample R.",
             "stars": 5
           }
-        },
-        "10430216-b307-4464-aa00-1772ba2f6f9e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -180,8 +178,7 @@
         "c1657218-bbfd-4063-ae91-ed9a341afc6c",
         "8d0d01dc-8e00-4583-b405-cafb6dd7d72c",
         "6508f4dc-b85e-4acb-a286-acc209baefcf",
-        "4c29635a-43a7-4336-ac20-ccdd1989bddc",
-        "10430216-b307-4464-aa00-1772ba2f6f9e"
+        "4c29635a-43a7-4336-ac20-ccdd1989bddc"
       ],
       "settings": {
         "expandable_description": true,
@@ -334,16 +331,6 @@
     },
     "170069103603320125": {
       "type": "apps",
-      "blocks": {
-        "4894946d-1159-40e5-86fb-84c00c00c964": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "4894946d-1159-40e5-86fb-84c00c00c964"
-      ],
       "settings": {
       }
     }
