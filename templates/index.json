@@ -248,6 +248,7 @@
     },
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
       "type": "heading-text",
+      "disabled": true,
       "settings": {
         "spacing": "top",
         "color": "inverse",
@@ -262,7 +263,7 @@
           "settings": {
             "url": "",
             "heading": "WOMEN",
-            "button_text": "SHOP NOW"
+            "button_text": "SHOP SUITS"
           }
         },
         "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
@@ -270,7 +271,7 @@
           "settings": {
             "url": "",
             "heading": "MEN",
-            "button_text": "SHOP NOW"
+            "button_text": "SHOP ACCESSORIES"
           }
         }
       },
@@ -379,18 +380,20 @@
         "e088b976-829d-4762-b701-b0092c3bf79d": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/headshot_2_02c032a7-dae7-4a4e-b9a1-c817cbdfaeb9.jpg",
             "stars": 5,
-            "review": "I love this hoodie very much. I'm a fan of Gods Armor Wear product. I can express my faith!",
-            "reviewer": "J.R",
+            "review": "I wasted so much money on suits before I found Suit Link. The quality is amazing and the price is un unbeatable.",
+            "reviewer": "Kevin D",
             "text_box_background": "#f6edf6"
           }
         },
         "26c577f3-14da-4357-91e3-cdba53ea0c89": {
           "type": "review",
           "settings": {
+            "image": "shopify:\/\/shop_images\/heashot_1.jpg",
             "stars": 5,
-            "review": "Gods Armor Wear allows me to share my faith with others & I don't even need to speak. Amazing product & Comfortable",
-            "reviewer": "Sample R",
+            "review": "The material is WAY higher quality than the price suggests. These suits are perfect if you're a guy who needs to dress up regularly.",
+            "reviewer": "Ryan J",
             "text_box_background": "#f6edf6"
           }
         }
