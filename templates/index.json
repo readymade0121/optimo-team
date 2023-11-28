@@ -126,6 +126,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-briefcase-64.png",
             "title": "Work",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
@@ -134,6 +135,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-church-64.png",
             "title": "Church",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
@@ -142,6 +144,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-calendar-64.png",
             "title": "Nights Out",
             "body": "",
             "url": "shopify:\/\/collections\/women"
@@ -150,6 +153,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-loafers-64.png",
             "title": "Missionaries",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
