@@ -115,8 +115,8 @@
       "settings": {
         "color": "normal",
         "spacing": "top",
-        "small_heading": "SHOP BY CATEGORY",
-        "heading": "Explore Your Passion: Easilly Shop By Category For your Favorite Myth Division merch & Apparel",
+        "small_heading": "Designed With",
+        "heading": "You In Mind",
         "text": ""
       }
     },
@@ -126,7 +126,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "title": "Hoodie",
+            "title": "Work",
             "body": "",
             "url": "shopify:\/\/collections\/hoodies"
           }
@@ -134,7 +134,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
           "type": "grid_item",
           "settings": {
-            "title": "T-Shirt",
+            "title": "Church",
             "body": "",
             "url": "shopify:\/\/collections\/t-shirt"
           }
@@ -142,7 +142,7 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
           "type": "grid_item",
           "settings": {
-            "title": "Sweater",
+            "title": "Nights Out",
             "body": "",
             "url": "shopify:\/\/collections\/women"
           }
@@ -150,13 +150,14 @@
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
           "type": "grid_item",
           "settings": {
-            "title": "Bootom",
+            "title": "Missionaries",
             "body": "",
             "url": "shopify:\/\/collections\/bottom"
           }
         },
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
           "type": "grid_item",
+          "disabled": true,
           "settings": {
             "title": "New Arrival",
             "body": "",
@@ -165,6 +166,7 @@
         },
         "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
           "type": "grid_item",
+          "disabled": true,
           "settings": {
             "title": "Best Seller",
             "body": "",
