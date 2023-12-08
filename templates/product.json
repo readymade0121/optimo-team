@@ -112,36 +112,42 @@
         "610ef941-fb1c-4787-8323-9a1c6837baa7": {
           "type": "collapsable-row",
           "settings": {
-            "heading": "Is Optimo really just $99\/month?",
+            "heading": "Is this suit worth $250?",
+            "icon": "shopify:\/\/shop_images\/icons8-dollar-sign-50.png",
             "icon_size": 30,
-            "body": "<p>Yes, it's true! I thought about pricing it only at $997 for a 1 time payment, but then I was like...\"Nah, let's give 'em a break!\" So, here you are. Getting the deal of the century.<br\/><\/p>"
+            "body": "<p>Yes! We make premium suits affordable. Our competitors offer similar quality suits for as high as $599.<\/p>"
           }
         },
         "20d6c736-c2f1-40f6-83f2-1f9845c1a0bb": {
           "type": "collapsable-row",
           "settings": {
-            "heading": "What if I'm not a tech wizard?",
+            "heading": "What if my suit doesn't fit?",
+            "icon": "shopify:\/\/shop_images\/icons8-suit-64.png",
             "icon_size": 30,
-            "body": "<p>No worries! Optimo is so user-friendly, even your grandma could set it up. And if she's busy, we've got a team of dedicated devs and concise 1-minute tutorials to help you out.<\/p>"
+            "body": "<p>You can exchange it! No questions asked. A great suit will need to be tailored, though. Find a local tailor and get the perfect fit for $15-$45!<\/p>"
           }
         },
         "c1657218-bbfd-4063-ae91-ed9a341afc6c": {
           "type": "collapsable-row",
           "settings": {
-            "heading": "Will my Mobile site look good?",
+            "heading": "How do I clean it?",
+            "icon": "shopify:\/\/shop_images\/icons8-laundry-50.png",
             "icon_size": 30,
-            "body": "<p>Will a bear do its business in the woods? Absolutely! Optimo is all about that \"mobile-first\" life. Your site will look so good on mobile, your customers won't be able to resist.<\/p>"
+            "body": "<p>These suits are dry clean ONLY.<\/p>"
           }
         },
         "8d0d01dc-8e00-4583-b405-cafb6dd7d72c": {
           "type": "three",
           "settings": {
+            "image1": "shopify:\/\/shop_images\/icons8-shipping-48.png",
             "image1_width": 50,
-            "text1": "Mobile First Ui\/Ux Design",
+            "text1": "Fast Shipping",
+            "image2": "shopify:\/\/shop_images\/icons8-reviews-68.png",
             "image2_width": 50,
-            "text2": "Design Updates Each Month",
+            "text2": "5-Star Reviews",
+            "image3": "shopify:\/\/shop_images\/icons8-exchange-60.png",
             "image3_width": 50,
-            "text3": "Built-in CRO Best Practices"
+            "text3": "Easy Exchange"
           }
         },
         "6508f4dc-b85e-4acb-a286-acc209baefcf": {
@@ -161,11 +167,6 @@
             "reviewer": "Sample R.",
             "stars": 5
           }
-        },
-        "10430216-b307-4464-aa00-1772ba2f6f9e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -180,8 +181,7 @@
         "c1657218-bbfd-4063-ae91-ed9a341afc6c",
         "8d0d01dc-8e00-4583-b405-cafb6dd7d72c",
         "6508f4dc-b85e-4acb-a286-acc209baefcf",
-        "4c29635a-43a7-4336-ac20-ccdd1989bddc",
-        "10430216-b307-4464-aa00-1772ba2f6f9e"
+        "4c29635a-43a7-4336-ac20-ccdd1989bddc"
       ],
       "settings": {
         "expandable_description": true,
@@ -334,16 +334,6 @@
     },
     "170069103603320125": {
       "type": "apps",
-      "blocks": {
-        "4894946d-1159-40e5-86fb-84c00c00c964": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "4894946d-1159-40e5-86fb-84c00c00c964"
-      ],
       "settings": {
       }
     }
