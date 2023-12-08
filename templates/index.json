@@ -107,7 +107,7 @@
         "mobile": "shopify:\/\/shop_images\/asdfsafsdf_a017a613-92ad-4a07-a32d-122fd0d75059.png",
         "make_card": false,
         "desktop_text_position": "left",
-        "mobile_text_position": "top",
+        "mobile_text_position": "bottom",
         "text_width": 460
       }
     },
