@@ -102,13 +102,13 @@
         "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3"
       ],
       "settings": {
-        "spacing": "none",
+        "spacing": "top",
         "section_color": "normal",
         "mobile": "shopify:\/\/shop_images\/asdfsafsdf_a017a613-92ad-4a07-a32d-122fd0d75059.png",
         "make_card": false,
         "desktop_text_position": "left",
-        "mobile_text_position": "bottom",
-        "text_width": 400
+        "mobile_text_position": "top",
+        "text_width": 460
       }
     },
     "2faa8948-8532-4eb8-8204-5bc88a48b747": {
