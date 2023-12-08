@@ -165,10 +165,9 @@
                         {% assign variants = image.variants | sort: 'title' %}
                         {% assign color = '' %}
                         {% for variant in variants %}
-                          {% assign words = variant.title | split: ' ' %}
+                          {% assign words = variant.title | split: '/' %}
                           {% assign compare_color = words[0] | downcase %}
                           {% if color != compare_color %}
-                            {% assign color = compare_color %}
                             <li>
                               <img
                                 style="width:60px; border-radius:10px"
@@ -412,7 +411,7 @@
       var t = $(this).attr('id');
       $("img").css("border","none");
       $(this).css("border","1px solid black");
-      $("#thumblabel-"+t).trigger('click');
+      {% comment %} $("#thumblabel-"+t).trigger('click'); {% endcomment %}
       $("#label-"+t).trigger('click');
     });
 
