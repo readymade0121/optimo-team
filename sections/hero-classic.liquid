@@ -22,7 +22,7 @@
       {% else %}
         <img class="hero-classic-desktop" src="{{ section.settings.desktop | img_url: 'master' }}">
       {% endif %}
-      <div class="hero-classic-text">
+      <div class="hero-classic-text {{ cls2 }}">
         <div class="width">
           <div class="hero-classic-text-inner">
             {% for block in section.blocks %}
@@ -297,6 +297,9 @@
      }
      .hero-classic-body {
        font-size: var(--body_font_size_desktop);
+     }
+     .hero-classic--mobile-text-top{
+       bottom:10%;
      }
    }
 </style>
