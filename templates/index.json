@@ -262,9 +262,9 @@
           "settings": {
             "spacing": "both",
             "alignment": "left",
-            "small_heading": "American Ape: Anime Rumble Edition Tee",
+            "small_heading": "",
             "heading": "Ready to Rumble! Show off your  fighting spirit with this anime Bored Ape Tee.",
-            "body": "<p>Gear up for digital battle with the hard hitting American Ape Tee, featuring the anime inspired version of the amnesiac title BAYC character and the ruthless Bounty Hunter, Murphy, the Deathbot Killer. Designed by the legendary RIOT Games artist, Jon Lam, this tee blends cotton, rayon, and polyester for an irresistibly soft touch that will not shrink in the wash.<\/p><p>When you slip into one of these shirts, you're not just wearing a t-shirt; you're donning the essence of good old fashioned fisticuffs. Lovers of the epic anime fight will love this one. Wear this American Ape tee and let the world know you're not afraid to embrace your inner badass.<\/p>",
+            "body": "",
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/collections"
           }
@@ -471,7 +471,7 @@
         "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1": {
           "type": "grid_item",
           "settings": {
-            "title": "Heading will goes here",
+            "title": "US",
             "body": "<p>Body Text will goes here<\/p>",
             "url": ""
           }
