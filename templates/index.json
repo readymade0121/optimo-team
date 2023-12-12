@@ -102,9 +102,9 @@
         "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3"
       ],
       "settings": {
-        "spacing": "top",
-        "section_color": "normal",
-        "mobile": "shopify:\/\/shop_images\/asdfsafsdf_a017a613-92ad-4a07-a32d-122fd0d75059.png",
+        "spacing": "none",
+        "section_color": "inverse",
+        "mobile": "shopify:\/\/shop_images\/slherotest2.jpg",
         "make_card": false,
         "desktop_text_position": "left",
         "mobile_text_position": "bottom",
@@ -288,7 +288,7 @@
       ],
       "settings": {
         "spacing": "both",
-        "color": "inverse",
+        "color": "normal",
         "contained": false,
         "block_spacing": 20
       }

@@ -53,7 +53,7 @@
         "type": "announcement-bar",
         "settings": {
           "color": "normal",
-          "text": "<p>GET 10% OFF YOUR FIRST ORDER<\/p>",
+          "text": "<p>FREE SHIPPING ON ORDERS $100+<\/p>",
           "url": "shopify:\/\/products\/optimo"
         }
       },
