@@ -202,8 +202,8 @@
       "settings": {
         "color": "alt",
         "spacing": "top",
-        "small_heading": "NEW ARRIVALS",
-        "heading": "Shop Apparel",
+        "small_heading": "",
+        "heading": "Best Sellers",
         "text": ""
       }
     },
