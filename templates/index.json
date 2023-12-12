@@ -424,17 +424,15 @@
       "blocks": {
         "1bdd2c90-51c7-420b-84b0-73ce70a5afe9": {
           "type": "section",
-          "disabled": true,
           "settings": {
-            "heading": "Will optimo look good on mobile?",
+            "heading": "Why are your suits so much cheaper than competitors?",
             "body": "<p>Will a bear do its business in the woods? Absolutely! Optimo was born on mobile. <\/p><p>Your site will look so good on mobile, your customers won't be able to resist.<\/p>"
           }
         },
         "5bb7edee-01d6-4a6b-8b28-d0a578996410": {
           "type": "section",
-          "disabled": true,
           "settings": {
-            "heading": "What if I need help at 3am?",
+            "heading": "Can I exchange my suit for a different size if it doesn't fit?",
             "body": "<p>We've got you covered! Our team of theme experts are on hand 24\/7. <\/p><p>They're real people, not robots (at least, not yet). So, whether you're a night owl or an early bird, we're here for you<\/p>"
           }
         },
@@ -449,7 +447,7 @@
         "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f": {
           "type": "section",
           "settings": {
-            "heading": "What if I decide to break up with Optimo?",
+            "heading": "Should I have my suit altered?",
             "body": "<p>We'll be heartbroken, but we understand. There's no contract or commitment, you can cancel anytime. <\/p><p>But remember, Optimo will always be here, waiting for you with open arms.<\/p>"
           }
         }
@@ -460,7 +458,6 @@
         "ebc001ae-0148-46d0-8401-a6530c90c24a",
         "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f"
       ],
-      "disabled": true,
       "settings": {
         "spacing": "bottom",
         "faqs": "FAQ's",
