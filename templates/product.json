@@ -6,52 +6,76 @@
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1": {
           "type": "video_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-403.jpg",
             "title": "The M300",
             "video": "shopify:\/\/files\/videos\/processed-33B1CC2A-526D-4392-A98B-05FC84302BA6-29BE1769-9717-4DAF-ACD8-EBA4370CDFF8.mp4"
-          }
-        },
-        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1": {
-          "type": "product_item",
-          "settings": {
-            "title": "Product Title",
-            "url": ""
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-2": {
           "type": "video_item",
           "settings": {
-            "title": "Testimonial"
+            "image": "shopify:\/\/shop_images\/Web_Res-194.jpg",
+            "title": "Size Guide"
+          }
+        },
+        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1": {
+          "type": "product_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-20.jpg",
+            "title": "Navy",
+            "url": ""
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-2": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/Web_Res-518_3e026ff6-8ad1-474d-8f14-b2f05d3c1eee.jpg",
+            "title": "Black",
             "url": ""
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/Web_Res-89.jpg",
+            "title": "Chocolate",
             "url": ""
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4": {
           "type": "product_item",
           "settings": {
-            "title": "Product Title",
+            "image": "shopify:\/\/shop_images\/Web_Res-254_f35bcb14-03ea-4495-8865-0a75905dd5b6.jpg",
+            "title": "Royal",
+            "url": ""
+          }
+        },
+        "513d16f0-a158-4e7d-913d-51936792131a": {
+          "type": "product_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-456.jpg",
+            "title": "Cream",
+            "url": ""
+          }
+        },
+        "70af918b-42f8-4535-ad0a-b3d80b274f0f": {
+          "type": "product_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-660.jpg",
+            "title": "Charcoal",
             "url": ""
           }
         }
       },
       "block_order": [
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1",
-        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-2",
+        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-2",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3",
-        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4"
+        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4",
+        "513d16f0-a158-4e7d-913d-51936792131a",
+        "70af918b-42f8-4535-ad0a-b3d80b274f0f"
       ],
       "settings": {
         "usage": "mobile_only",
