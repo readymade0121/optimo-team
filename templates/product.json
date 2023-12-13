@@ -258,6 +258,46 @@
         "icon_size": 44
       }
     },
+    "1de5a919-bbd0-4214-9221-bb654bcb84c6": {
+      "type": "image-icons",
+      "blocks": {
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-1": {
+          "type": "icon",
+          "settings": {
+            "sub_img": "shopify:\/\/shop_images\/icons8-x-480.png",
+            "title": "Retail Price: $900"
+          }
+        },
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-2": {
+          "type": "icon",
+          "settings": {
+            "sub_img": "shopify:\/\/shop_images\/icons8-checkmark-400_7344410d-fad2-4c40-a09e-7bd1fc652efc.png",
+            "title": "Suit Link Price: $250"
+          }
+        },
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-3": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "sub_img": "shopify:\/\/shop_images\/icons8-question-mark-480.png",
+            "title": "How? Your suit comes straight from the source. No brick and mortar store,"
+          }
+        }
+      },
+      "block_order": [
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-1",
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-2",
+        "template--17018870038764__1de5a919-bbd0-4214-9221-bb654bcb84c6-icon-3"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "img_main": "shopify:\/\/shop_images\/price.jpg",
+        "icon_size": 44
+      }
+    },
     "judgeme_section_review_widget_a691": {
       "type": "apps",
       "disabled": true,
@@ -278,13 +318,12 @@
     },
     "07e232ff-e97a-46d3-b1ab-b77d6cb0ee1e": {
       "type": "intro-text",
-      "disabled": true,
       "settings": {
         "color": "normal",
         "spacing": "both",
-        "small_heading": "Subheading Goes Here",
-        "heading": "Heading Text About A Product Goes Here",
-        "text": "<p>Content about the product below goes here. Product features and benefits and anything else that helps sell it would be good. <\/p>"
+        "small_heading": "",
+        "heading": "How do we do it?",
+        "text": "<p>Your suit comes straight from the source. No brick and mortar store, no commissioned sales reps<\/p>"
       }
     },
     "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0": {
@@ -299,6 +338,7 @@
         },
         "931cf82d-a673-430c-960e-35ea6c436ba3": {
           "type": "section",
+          "disabled": true,
           "settings": {
             "heading": "FAQ #2 Goes Here",
             "body": "<p>Answer Goes Here<\/p>"
@@ -306,6 +346,7 @@
         },
         "2f20ef4a-cd2b-4aa6-8e2a-fa5354b4e977": {
           "type": "section",
+          "disabled": true,
           "settings": {
             "heading": "FAQ #3 Goes Here",
             "body": "<p>Answer Goes Here<\/p>"
@@ -313,6 +354,7 @@
         },
         "01ec38bb-5d11-4222-9eef-ed232847b645": {
           "type": "section",
+          "disabled": true,
           "settings": {
             "heading": "FAQ #4 Goes Here",
             "body": "<p>Answer Goes Here<\/p>"
@@ -320,6 +362,7 @@
         },
         "b42a39bf-0f25-4c7c-89e8-53c476f15d33": {
           "type": "section",
+          "disabled": true,
           "settings": {
             "heading": "FAQ #5 Goes Here",
             "body": "<p>Answer Goes Here<\/p>"
@@ -336,7 +379,7 @@
       "disabled": true,
       "settings": {
         "spacing": "both",
-        "faqs": "FAQ's",
+        "faqs": "",
         "heading_size": "medium",
         "color": "normal"
       }
@@ -352,6 +395,7 @@
     "c758b147-fcc7-400c-87c6-ddc5be1c073f",
     "main",
     "2f57576f-a77d-4919-a887-68c744c81a6e",
+    "1de5a919-bbd0-4214-9221-bb654bcb84c6",
     "judgeme_section_review_widget_a691",
     "judgeme_section_review_widget_8444",
     "judgeme_section_review_widget_2ca7",
