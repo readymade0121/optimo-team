@@ -158,13 +158,13 @@
         "4c29635a-43a7-4336-ac20-ccdd1989bddc": {
           "type": "review",
           "settings": {
-            "bg_color": "#f9f9f9",
+            "bg_color": "#cccbcb",
             "txt_color": "#000000",
             "star_color": "#ffd712",
             "border_color": "#000000",
             "enable_border": false,
-            "review": "The customer service team was  incredibly helpful and responsive when I had a question about my order.",
-            "reviewer": "Sample R.",
+            "review": "My order shipped really fast. I was so excited I rushed to the tailor. I've replaced all my old suits with M300s now.",
+            "reviewer": "- Ryan K.",
             "stars": 5
           }
         }
