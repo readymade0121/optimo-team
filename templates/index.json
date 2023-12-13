@@ -253,38 +253,6 @@
         "block_spacing": 20
       }
     },
-    "a5d9d414-2060-4b9a-a632-c8767dc35885": {
-      "type": "image-or-text",
-      "blocks": {
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0": {
-          "type": "text",
-          "settings": {
-            "spacing": "both",
-            "alignment": "left",
-            "small_heading": "",
-            "heading": "Ready to Rumble! Show off your  fighting spirit with this anime Bored Ape Tee.",
-            "body": "",
-            "button_text": "SHOP NOW",
-            "button_url": "shopify:\/\/collections"
-          }
-        },
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0",
-        "template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"
-      ],
-      "settings": {
-        "spacing": "both",
-        "color": "normal",
-        "contained": false,
-        "block_spacing": 100
-      }
-    },
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
       "type": "heading-text",
       "disabled": true,
@@ -465,7 +433,7 @@
           "type": "section",
           "settings": {
             "heading": "Can I exchange my suit for a different size if it doesn't fit?",
-            "body": "<p>We've got you covered! Our team of theme experts are on hand 24\/7. <\/p><p>They're real people, not robots (at least, not yet). So, whether you're a night owl or an early bird, we're here for you<\/p>"
+            "body": "<p>Yes! You just pay shipping. Send it back to us and we'll get you another size ASAP.<\/p>"
           }
         },
         "ebc001ae-0148-46d0-8401-a6530c90c24a": {
@@ -480,7 +448,7 @@
           "type": "section",
           "settings": {
             "heading": "Should I have my suit altered?",
-            "body": "<p>We'll be heartbroken, but we understand. There's no contract or commitment, you can cancel anytime. <\/p><p>But remember, Optimo will always be here, waiting for you with open arms.<\/p>"
+            "body": "<p>Yes! Any great suit needs to be customized to YOUR body. Order the right size jacket to fit perfectly on the first try, then take the pants to a tailor to get the perfect length and waist.<\/p>"
           }
         }
       },
@@ -695,7 +663,6 @@
     "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca",
     "eabcb187-0d81-44f8-900f-78388749dad4",
     "27138591-9185-4f3c-8ca3-34be1551668a",
-    "a5d9d414-2060-4b9a-a632-c8767dc35885",
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
     "1ddd250b-223c-4adf-934e-bbee463f458a",
     "23e2ebce-0d8e-4f91-9e58-6eebe285ded6",
