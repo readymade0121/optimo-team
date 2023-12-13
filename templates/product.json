@@ -112,7 +112,7 @@
         "610ef941-fb1c-4787-8323-9a1c6837baa7": {
           "type": "collapsable-row",
           "settings": {
-            "heading": "Is it worth the money!",
+            "heading": "Is it worth the money?",
             "icon": "shopify:\/\/shop_images\/icons8-dollar-sign-50.png",
             "icon_size": 30,
             "body": "<p>We make premium suits affordable. Our competitors offer the same quality suits for as high as $900.<\/p>"
@@ -197,23 +197,23 @@
       "blocks": {
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-1": {
           "type": "icon",
-          "disabled": true,
           "settings": {
-            "title": "Your text will go here"
+            "sub_img": "shopify:\/\/shop_images\/icons8-checkmark-400.png",
+            "title": "High Quality Fabric"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-2": {
           "type": "icon",
-          "disabled": true,
           "settings": {
-            "title": "Your text will go here"
+            "sub_img": "shopify:\/\/shop_images\/icons8-checkmark-400_8adff314-adf1-4247-9e4f-c97eece43e82.png",
+            "title": "Soft, Smooth, Comfort"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-3": {
           "type": "icon",
-          "disabled": true,
           "settings": {
-            "title": "Your text will go here"
+            "sub_img": "shopify:\/\/shop_images\/icons8-checkmark-400_990fbc21-d0b4-46da-891f-aa6a38ad1fd5.png",
+            "title": "Fits like a glove"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-4": {
@@ -246,12 +246,16 @@
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-5",
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-6"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "margin_top": 12,
-        "margin_bottom": 12,
-        "icon_size": 40
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "img_main": "shopify:\/\/shop_images\/premium_poly.jpg",
+        "icon_size": 44
       }
     },
     "judgeme_section_review_widget_a691": {
