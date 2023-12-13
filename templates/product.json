@@ -6,7 +6,8 @@
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1": {
           "type": "video_item",
           "settings": {
-            "title": "Testimonial"
+            "title": "The M300",
+            "video": "shopify:\/\/files\/videos\/processed-33B1CC2A-526D-4392-A98B-05FC84302BA6-29BE1769-9717-4DAF-ACD8-EBA4370CDFF8.mp4"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1": {
@@ -52,7 +53,6 @@
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4"
       ],
-      "disabled": true,
       "settings": {
         "usage": "mobile_only",
         "border_size": 2
