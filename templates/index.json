@@ -348,6 +348,7 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/premium_poly_b76280a1-b1ef-4bfb-ae7c-35b3bf6bf527.jpg"
           }
         },
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
@@ -355,9 +356,9 @@
           "settings": {
             "spacing": "both",
             "alignment": "left",
-            "small_heading": "Leap of Faith",
-            "heading": "Wear Your Courage and show off the bold pursuit of your dreams.",
-            "body": "<p>Take a \"Leap of Faith\" with our dark grey tee, inspired by our founder's journey into the world of comic creation. This shirt is not just a piece of clothing; it's a symbol of believing in yourself and achieving the impossible. Marking a pivotal moment in Myth Division’s very first comic book series, this shirt is an homage to the risks taken at the beginning of any difficult journey. Made from the same comfortable materials and available in both men's and women's sizes, it's a reminder that dreams are worth pursuing.<\/p>",
+            "small_heading": "We take quality seriously",
+            "heading": "Our suits are manufactured with care using only high quality materials.",
+            "body": "",
             "button_text": "SHOP NOW",
             "button_url": "shopify:\/\/collections"
           }
@@ -367,7 +368,39 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1",
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"
       ],
-      "disabled": true,
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "f878518b-cf50-4a17-a97b-0504f2239d9f": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/price_2c8df94e-27bb-4b56-b930-cf10c9c20c96.jpg"
+          }
+        },
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-text-1": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Our competitors will charge you $900...",
+            "heading": "What makes our suits so affordable?",
+            "body": "<p>We ARE the source. No showrooms, no sales reps, no endless supply chains.<\/p>",
+            "button_text": "Shop Now",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-image-1",
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-text-1"
+      ],
       "settings": {
         "spacing": "both",
         "color": "normal",
@@ -666,6 +699,7 @@
     "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
     "1ddd250b-223c-4adf-934e-bbee463f458a",
     "23e2ebce-0d8e-4f91-9e58-6eebe285ded6",
+    "f878518b-cf50-4a17-a97b-0504f2239d9f",
     "7ff1d7ed-e5f8-481f-ad45-c91aa045b23f",
     "086d1ac5-2174-4263-b13a-9d10a58c2537",
     "36c4061f-b658-4892-9adb-3ad74bd58180",
