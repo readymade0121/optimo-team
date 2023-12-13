@@ -52,6 +52,7 @@
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4"
       ],
+      "disabled": true,
       "settings": {
         "usage": "mobile_only",
         "border_size": 2
@@ -59,6 +60,7 @@
     },
     "c758b147-fcc7-400c-87c6-ddc5be1c073f": {
       "type": "promo-slider",
+      "disabled": true,
       "settings": {
         "visibility": "mobile",
         "promo_slider_bg": "#000000",
