@@ -213,7 +213,7 @@
           "type": "icon",
           "settings": {
             "sub_img": "shopify:\/\/shop_images\/icons8-checkmark-400_990fbc21-d0b4-46da-891f-aa6a38ad1fd5.png",
-            "title": "Fits like a glove"
+            "title": "Fits Like A Glove"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-4": {
@@ -321,9 +321,9 @@
       "settings": {
         "color": "normal",
         "spacing": "both",
-        "small_heading": "",
-        "heading": "How do we do it?",
-        "text": "<p>Your suit comes straight from the source. No brick and mortar store, no commissioned sales reps<\/p>"
+        "small_heading": "About that price...",
+        "heading": "How do we pull it off?",
+        "text": "<p>Your suit comes straight from the source. No physical store, no commissioned sales reps, no endless supply chain.<\/p>"
       }
     },
     "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0": {
@@ -388,6 +388,138 @@
       "type": "apps",
       "settings": {
       }
+    },
+    "e320743a-17cb-427f-9934-530c3f912c88": {
+      "type": "image-icons",
+      "blocks": {
+        "template--17018870038764__e320743a-17cb-427f-9934-530c3f912c88-icon-5": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "title": "Your text will go here"
+          }
+        }
+      },
+      "block_order": [
+        "template--17018870038764__e320743a-17cb-427f-9934-530c3f912c88-icon-5"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "img_main": "shopify:\/\/shop_images\/colors_312c86ad-7ef0-4af9-95a4-64cc37920730.jpg",
+        "icon_size": 40
+      }
+    },
+    "e953b11a-ae5e-4d91-86ff-eaf3ece54226": {
+      "type": "carousel",
+      "blocks": {
+        "f9bd5e50-48ae-46f5-8c8d-b0e6011c674b": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-77.jpg",
+            "title": "Chocolate",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#ffffff",
+            "btn_bg_color": "#f9a526"
+          }
+        },
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-3": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-436.jpg",
+            "title": "Cream",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#fff",
+            "btn_bg_color": "#f9a526"
+          }
+        },
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-2": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-58.jpg",
+            "title": "Navy",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#fff",
+            "btn_bg_color": "#f9a526"
+          }
+        },
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-1": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-635.jpg",
+            "title": "Charcoal",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#fff",
+            "btn_bg_color": "#f9a526"
+          }
+        },
+        "9f14de12-31fd-4671-89fe-f53adad2f180": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-526.jpg",
+            "title": "Black",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "<p>Body text will goes here<\/p>",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#fff",
+            "btn_bg_color": "#f9a526"
+          }
+        },
+        "a5c2fd9c-3206-4dae-9b8a-f3923d04309c": {
+          "type": "image_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-303.jpg",
+            "title": "Royal",
+            "tag_text_color": "#fff",
+            "tag_bg_color": "#9c9a9a",
+            "body": "",
+            "body_text_color": "#fff",
+            "button": "View Now",
+            "btn_link": "",
+            "btn_text_color": "#fff",
+            "btn_bg_color": "#f9a526"
+          }
+        }
+      },
+      "block_order": [
+        "f9bd5e50-48ae-46f5-8c8d-b0e6011c674b",
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-3",
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-2",
+        "template--17018870038764__e953b11a-ae5e-4d91-86ff-eaf3ece54226-image_item-1",
+        "9f14de12-31fd-4671-89fe-f53adad2f180",
+        "a5c2fd9c-3206-4dae-9b8a-f3923d04309c"
+      ],
+      "settings": {
+        "card_background_color": "#f2f2f2",
+        "cards_on_mobile": "1",
+        "cards_on_tablet": "1",
+        "cards_on_desktop": "1"
+      }
     }
   },
   "order": [
@@ -401,6 +533,8 @@
     "judgeme_section_review_widget_2ca7",
     "07e232ff-e97a-46d3-b1ab-b77d6cb0ee1e",
     "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0",
-    "170069103603320125"
+    "170069103603320125",
+    "e320743a-17cb-427f-9934-530c3f912c88",
+    "e953b11a-ae5e-4d91-86ff-eaf3ece54226"
   ]
 }
