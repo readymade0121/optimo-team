@@ -112,10 +112,10 @@
         "610ef941-fb1c-4787-8323-9a1c6837baa7": {
           "type": "collapsable-row",
           "settings": {
-            "heading": "Is this suit worth $250?",
+            "heading": "Is it worth the money!",
             "icon": "shopify:\/\/shop_images\/icons8-dollar-sign-50.png",
             "icon_size": 30,
-            "body": "<p>Yes! We make premium suits affordable. Our competitors offer similar quality suits for as high as $599.<\/p>"
+            "body": "<p>We make premium suits affordable. Our competitors offer the same quality suits for as high as $900.<\/p>"
           }
         },
         "20d6c736-c2f1-40f6-83f2-1f9845c1a0bb": {
@@ -197,36 +197,42 @@
       "blocks": {
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-1": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-2": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-3": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-4": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-5": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
         },
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-6": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "title": "Your text will go here"
           }
@@ -240,7 +246,6 @@
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-5",
         "template--20054273950006__2f57576f-a77d-4919-a887-68c744c81a6e-icon-6"
       ],
-      "disabled": true,
       "settings": {
         "padding_top": 12,
         "padding_bottom": 12,
