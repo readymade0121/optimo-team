@@ -420,10 +420,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-77.jpg",
             "title": "Chocolate",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
             "btn_text_color": "#ffffff",
@@ -435,13 +435,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-436.jpg",
             "title": "Cream",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
-            "btn_text_color": "#fff",
+            "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
         },
@@ -450,13 +450,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-58.jpg",
             "title": "Navy",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
-            "btn_text_color": "#fff",
+            "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
         },
@@ -465,13 +465,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-635.jpg",
             "title": "Charcoal",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
-            "btn_text_color": "#fff",
+            "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
         },
@@ -480,13 +480,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-526.jpg",
             "title": "Black",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "<p>Body text will goes here<\/p>",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
-            "btn_text_color": "#fff",
+            "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
         },
@@ -495,13 +495,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-303.jpg",
             "title": "Royal",
-            "tag_text_color": "#fff",
+            "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
             "body": "",
-            "body_text_color": "#fff",
+            "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "",
-            "btn_text_color": "#fff",
+            "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
         }
@@ -517,8 +517,8 @@
       "settings": {
         "card_background_color": "#f2f2f2",
         "cards_on_mobile": "1",
-        "cards_on_tablet": "1",
-        "cards_on_desktop": "1"
+        "cards_on_tablet": "3",
+        "cards_on_desktop": "3"
       }
     }
   },
