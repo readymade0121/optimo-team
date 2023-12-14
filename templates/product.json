@@ -546,6 +546,26 @@
         "cards_on_tablet": "3",
         "cards_on_desktop": "3"
       }
+    },
+    "1702559191f0739aac": {
+      "type": "apps",
+      "blocks": {
+        "d928d8c2-b32a-47ce-add8-fb83c738cb30": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 5,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "d928d8c2-b32a-47ce-add8-fb83c738cb30"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -561,6 +581,7 @@
     "929bbe77-0ff5-4d8d-bae8-f8d59eae2dc0",
     "170069103603320125",
     "e320743a-17cb-427f-9934-530c3f912c88",
-    "e953b11a-ae5e-4d91-86ff-eaf3ece54226"
+    "e953b11a-ae5e-4d91-86ff-eaf3ece54226",
+    "1702559191f0739aac"
   ]
 }
