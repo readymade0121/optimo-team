@@ -92,7 +92,6 @@
           },
           "ce011e70-be89-4d49-8fa9-ab2fe3d81501": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "nav": "footer"
             }
