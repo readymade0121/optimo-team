@@ -213,6 +213,18 @@
 
                       {% else %}
                       {% if settings.variant_dropdown %}
+                        {% for value in option.values %}
+                          <input
+                            {% if option.selected_value == value %}
+                              checked
+                            {% endif %}
+                            type="radio"
+                            class="product-main-option-value-radio"
+                            name="{{ option.name }}"
+                            value="{{ value }}"
+                            id="{{ option.name | handleize }}-{{ value }}"
+                          >
+                        {% endfor %}
                         <select
                           onChange="onChangeOption(this);"
                           tabindex="0"
@@ -220,6 +232,7 @@
                           class="form-field-input form-field-select"
                           id="{{ option.name }}-selection"
                           data-product-option="{{ forloop.index0 }}">
+                        
                           {% for value in option.values %}
                           <option
                                   value="{{ value | escape }}"
