@@ -157,7 +157,7 @@
               <div class="product-main-options">
                 {% for option in product.options_with_values %}
                   <div class="product-main-option">
-                    <span>{{ option.name }}:</span>
+                    <span style="width:100%">{{ option.name }}:</span>
                     {% if option.name == 'Color' %}
                       {% assign variant_id = 0 %}
 
