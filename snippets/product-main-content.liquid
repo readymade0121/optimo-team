@@ -213,6 +213,7 @@
 
                       {% else %}
                       {% if settings.variant_dropdown %}
+                        
                         {% for value in option.values %}
                           <input
                             {% if option.selected_value == value %}
@@ -225,6 +226,7 @@
                             id="{{ option.name | handleize }}-{{ value }}"
                           >
                         {% endfor %}
+                        
                         <select
                           onChange="onChangeOption(this);"
                           tabindex="0"
@@ -234,6 +236,7 @@
                           data-product-option="{{ forloop.index0 }}">
                         
                           {% for value in option.values %}
+                            
                           <option
                                   value="{{ value | escape }}"
                                   {% if option.selected_value == value %}selected="selected"{% endif %}
@@ -441,7 +444,12 @@
   function onChangeOption(e){
     console.log(e.target);
   }
+
+  $(".form-field-input").click(function(){
+    $("#"+ this.value).click();
+  });
   
+    
   $(document).ready(function () {
     $(".color_picker").click(function(){
       {% comment %} console.log('+++++'); {% endcomment %}
