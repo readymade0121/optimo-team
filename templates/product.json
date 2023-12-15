@@ -31,7 +31,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-518_3e026ff6-8ad1-474d-8f14-b2f05d3c1eee.jpg",
             "title": "Black",
-            "url": "shopify:\/\/products\/test"
+            "url": "shopify:\/\/products\/the-m300-black"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3": {
@@ -526,7 +526,7 @@
             "body": "<p>Body text will goes here<\/p>",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "shopify:\/\/products\/test",
+            "btn_link": "shopify:\/\/products\/the-m300-black",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
