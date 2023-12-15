@@ -193,8 +193,8 @@
       "settings": {
         "color": "normal",
         "images_on_mobile": "2",
-        "images_on_tablet": "3",
-        "images_on_desktop": "3",
+        "images_on_tablet": "4",
+        "images_on_desktop": "4",
         "text_align": "center",
         "limit_image_size": true
       }
