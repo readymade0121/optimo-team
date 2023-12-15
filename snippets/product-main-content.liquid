@@ -231,32 +231,33 @@
                           {% endfor %}
                         </select>
                         <label class="form-field-title" for="{{ option.name }}-selection">{{ option.name }}</label>
+                        {% else %}
+                          {% for value in option.values %}
+                            <div class="product-main-option-value" style="display: flex;">
+                              <input
+                                {% if option.selected_value == value %}
+                                  checked
+                                {% endif %}
+                                type="radio"
+                                class="product-main-option-value-radio"
+                                name="{{ option.name }}"
+                                value="{{ value }}"
+                                id="{{ option.name | handleize }}-{{ value }}"
+                              >
+                              <label
+                                for="{{ option.name | handleize }}-{{ value }}"
+                                style="{% if option.name == 'Color' %}background-color: {{ value }};{% endif %}"
+                                class="{% if option.name == 'Color' %}product-variant-color-swatch{% endif %}"
+                              >
+                                {% if option.name != 'Color' %}
+                                  {{ value }}
+                                {% endif %}
+                              </label>
+                            </div>
+    
+                            {% comment %} {{ value }} {% endcomment %}
+                          {% endfor %}
                       {% endif %}
-                      {% for value in option.values %}
-                        <div class="product-main-option-value" style="display: flex;">
-                          <input
-                            {% if option.selected_value == value %}
-                              checked
-                            {% endif %}
-                            type="radio"
-                            class="product-main-option-value-radio"
-                            name="{{ option.name }}"
-                            value="{{ value }}"
-                            id="{{ option.name | handleize }}-{{ value }}"
-                          >
-                          <label
-                            for="{{ option.name | handleize }}-{{ value }}"
-                            style="{% if option.name == 'Color' %}background-color: {{ value }};{% endif %}"
-                            class="{% if option.name == 'Color' %}product-variant-color-swatch{% endif %}"
-                          >
-                            {% if option.name != 'Color' %}
-                              {{ value }}
-                            {% endif %}
-                          </label>
-                        </div>
-
-                        {% comment %} {{ value }} {% endcomment %}
-                      {% endfor %}
 
                     {% endif %}
                   </div>
