@@ -30,7 +30,15 @@
     <div>
     </div>
     <div>
-      <!-- <div>
+      
+      <div>
+        {% if section.settings.img_main !=  blank %}
+          <img src="{{ section.settings.img_main | image_url }}" />
+        {% else %}
+          <img src="{{ 'img_sample_product1.png' | asset_url }}" />
+        {% endif %}
+      </div>
+      <div>
         {%- liquid
           assign half_sub_items = section.blocks.size | divided_by: 2
         %}
@@ -46,17 +54,11 @@
             </div>
           {% endif %}
         {% endfor %}
-      </div> -->
-      <div>
-        {% if section.settings.img_main !=  blank %}
-          <img src="{{ section.settings.img_main | image_url }}" />
-        {% else %}
-          <img src="{{ 'img_sample_product1.png' | asset_url }}" />
-        {% endif %}
       </div>
+      
       <div>
         {% for block in section.blocks %}
-          <!-- {% if forloop.index0 >= half_sub_items %} -->
+          {% if forloop.index0 >= half_sub_items %}
             <div class="product-explanation__sub_item">
               {% if block.settings.sub_img != blank %}
                 <img src="{{ block.settings.sub_img | image_url }}" />
@@ -65,7 +67,7 @@
               {% endif %}
               <span>{{ block.settings.title }}</span>
             </div>
-          <!-- {% endif %} -->
+          {% endif %}
         {% endfor %}
       </div>
     </div>
