@@ -246,7 +246,6 @@
                           </option>
                           {% endfor %}
                         </select>
-                        <label class="form-field-title" for="{{ option.name }}-selection">{{ option.name }}</label>
                         
                         {% else %}
                           {% for value in option.values %}
@@ -446,7 +445,6 @@
   }
 
   $(".form-field-input").click(function(){
-    console.log("+=====", this.value)
     $("#"+ this.value).click();
   });
   
