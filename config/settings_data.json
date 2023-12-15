@@ -33,6 +33,7 @@
     "field_radius": 8,
     "theme_media_type": "round",
     "cart_drawer": true,
+    "variant_dropdown": true,
     "grid_item_style": "standard",
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
