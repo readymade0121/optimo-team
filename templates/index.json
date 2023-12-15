@@ -338,7 +338,7 @@
         "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"
       ],
       "settings": {
-        "spacing": "both",
+        "spacing": "bottom",
         "color": "normal",
         "contained": false,
         "block_spacing": 100
@@ -371,7 +371,7 @@
         "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-text-1"
       ],
       "settings": {
-        "spacing": "both",
+        "spacing": "bottom",
         "color": "normal",
         "contained": false,
         "block_spacing": 100
