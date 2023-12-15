@@ -212,11 +212,11 @@
       "type": "featured-collection",
       "settings": {
         "spacing": "top",
-        "horizontal_spacing": 26,
-        "vertical_spacing": 26,
+        "horizontal_spacing": 10,
+        "vertical_spacing": 10,
         "color": "alt",
         "collection": "suits",
-        "count": 3,
+        "count": 6,
         "product_hover": true
       }
     },
