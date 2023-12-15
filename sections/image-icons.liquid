@@ -39,7 +39,7 @@
         {% endif %}
       </div>
       <div>
-        {%- liquid
+        <!-- {%- liquid
           assign half_sub_items = section.blocks.size | divided_by: 2
         %}
         {% for block in section.blocks %}
@@ -53,12 +53,11 @@
               <span>{{ block.settings.title }}</span>
             </div>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </div>
       
       <div>
         {% for block in section.blocks %}
-          {% if forloop.index0 >= half_sub_items %}
             <div class="product-explanation__sub_item">
               {% if block.settings.sub_img != blank %}
                 <img src="{{ block.settings.sub_img | image_url }}" />
@@ -67,7 +66,6 @@
               {% endif %}
               <span>{{ block.settings.title }}</span>
             </div>
-          {% endif %}
         {% endfor %}
       </div>
     </div>
