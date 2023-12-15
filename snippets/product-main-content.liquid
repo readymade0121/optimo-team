@@ -231,6 +231,7 @@
                           {% endfor %}
                         </select>
                         <label class="form-field-title" for="{{ option.name }}-selection">{{ option.name }}</label>
+                        
                         {% else %}
                           {% for value in option.values %}
                             <div class="product-main-option-value" style="display: flex;">
@@ -424,6 +425,9 @@
 
 <script>
 
+  function onChangeOption(e){
+    console.log(e.target.value);
+  }
   
   $(document).ready(function () {
     $(".color_picker").click(function(){
