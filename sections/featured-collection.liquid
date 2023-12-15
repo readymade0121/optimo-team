@@ -14,7 +14,7 @@
     <div class="featured-collection-grid">
       {% for product in section.settings.collection.products %}
         {% unless forloop.index > section.settings.count %}
-          {% render 'product-grid-item', product: product, show_review: true, from_robust: false, show_button: false %}
+          {% render 'product-grid-item', product: product, show_review: true, from_robust: false, show_button: false, show_vendor: false %}
         {% endunless %}
       {% else %}
         {% for i in (1..4) %}
