@@ -331,6 +331,17 @@
     ]
   },
   {
+    "name": "Variant dropdown",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "variant_dropdown",
+        "label": "Enable variant dropdown",
+        "default": false
+      }
+    ]
+  },
+  {
     "name": "Grids",
     "settings": [
       {
