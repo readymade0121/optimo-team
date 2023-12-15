@@ -212,7 +212,26 @@
 
 
                       {% else %}
-
+                      {% if settings.variant_dropdown %}
+                        <select
+                          onChange="onChangeOption(this);"
+                          tabindex="0"
+                          onkeyup="onChangeOption(this);"
+                          class="form-field-input form-field-select"
+                          id="{{ option.name }}-selection"
+                          data-product-option="{{ forloop.index0 }}">
+                          {% for value in option.values %}
+                          <option
+                                  value="{{ value | escape }}"
+                                  {% if option.selected_value == value %}selected="selected"{% endif %}
+                                  {% if value.available %} {% else %} data-disalbe{% endif %}
+                                  >
+                            {{ value }}
+                          </option>
+                          {% endfor %}
+                        </select>
+                        <label class="form-field-title" for="{{ option.name }}-selection">{{ option.name }}</label>
+                      {% endif %}
                       {% for value in option.values %}
                         <div class="product-main-option-value" style="display: flex;">
                           <input
