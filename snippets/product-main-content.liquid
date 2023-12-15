@@ -442,10 +442,11 @@
 <script>
 
   function onChangeOption(e){
-    console.log(e.target);
+    console.log(this.value);
   }
 
   $(".form-field-input").click(function(){
+    console.log("+=====", this.value)
     $("#"+ this.value).click();
   });
   
