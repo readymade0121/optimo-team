@@ -103,6 +103,7 @@
       "settings": {
         "spacing": "none",
         "section_color": "inverse",
+        "desktop": "shopify:\/\/shop_images\/Desktop_Hero.jpg",
         "mobile": "shopify:\/\/shop_images\/slherotest2.jpg",
         "make_card": false,
         "desktop_text_position": "left",
