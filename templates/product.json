@@ -23,7 +23,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-20.jpg",
             "title": "Navy",
-            "url": ""
+            "url": "shopify:\/\/products\/the-m300-navy"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-2": {
@@ -31,7 +31,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-518_3e026ff6-8ad1-474d-8f14-b2f05d3c1eee.jpg",
             "title": "Black",
-            "url": ""
+            "url": "shopify:\/\/products\/test"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3": {
@@ -39,7 +39,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-89.jpg",
             "title": "Chocolate",
-            "url": ""
+            "url": "shopify:\/\/products\/the-m300-chocolate"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-4": {
@@ -47,7 +47,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-254_f35bcb14-03ea-4495-8865-0a75905dd5b6.jpg",
             "title": "Royal",
-            "url": ""
+            "url": "shopify:\/\/products\/the-m300-royal"
           }
         },
         "513d16f0-a158-4e7d-913d-51936792131a": {
@@ -55,7 +55,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-456.jpg",
             "title": "Cream",
-            "url": ""
+            "url": "shopify:\/\/products\/the-m300-creme"
           }
         },
         "70af918b-42f8-4535-ad0a-b3d80b274f0f": {
@@ -63,7 +63,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-660.jpg",
             "title": "Charcoal",
-            "url": ""
+            "url": "shopify:\/\/products\/the-m300-charcoal"
           }
         }
       },
@@ -466,7 +466,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/the-m300-chocolate",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
@@ -481,7 +481,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/the-m300-creme",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
@@ -496,7 +496,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/the-m300-navy",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
@@ -511,7 +511,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/the-m300-charcoal",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
@@ -526,7 +526,7 @@
             "body": "<p>Body text will goes here<\/p>",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/test",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
@@ -541,7 +541,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/products\/the-m300-royal",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
