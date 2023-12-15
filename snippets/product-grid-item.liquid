@@ -34,10 +34,13 @@
         </span>
         <span class="btn-robust">Add</span>
       {% else %}
+        
+        {% if show_vendor %}
         {% if product.vendor != blank %}
           <p>
             {{ product.vendor }}
           </p>
+        {% endif %}
         {% endif %}
         <h3>{{ product.title }}</h3>
         {% render 'judgeme_widgets',
