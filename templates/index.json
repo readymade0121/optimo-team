@@ -211,13 +211,13 @@
     "eabcb187-0d81-44f8-900f-78388749dad4": {
       "type": "featured-collection",
       "settings": {
-        "spacing": "both",
+        "spacing": "top",
         "horizontal_spacing": 26,
         "vertical_spacing": 26,
         "color": "alt",
-        "collection": "frontpage",
-        "count": 4,
-        "product_hover": false
+        "collection": "suits",
+        "count": 3,
+        "product_hover": true
       }
     },
     "27138591-9185-4f3c-8ca3-34be1551668a": {
