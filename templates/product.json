@@ -3,19 +3,20 @@
     "68e4f0fd-1c07-4716-83f6-dd946538d9ac": {
       "type": "ig-slider",
       "blocks": {
-        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1": {
-          "type": "video_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Web_Res-403.jpg",
-            "title": "The M300",
-            "video": "shopify:\/\/files\/videos\/processed-33B1CC2A-526D-4392-A98B-05FC84302BA6-29BE1769-9717-4DAF-ACD8-EBA4370CDFF8.mp4"
-          }
-        },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-2": {
           "type": "video_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-194.jpg",
-            "title": "Size Guide"
+            "title": "Size Guide",
+            "video": "shopify:\/\/files\/videos\/Suit Link Size Guide 1.mp4"
+          }
+        },
+        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1": {
+          "type": "video_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Res-403.jpg",
+            "title": "Meet M300",
+            "video": "shopify:\/\/files\/videos\/processed-33B1CC2A-526D-4392-A98B-05FC84302BA6-29BE1769-9717-4DAF-ACD8-EBA4370CDFF8.mp4"
           }
         },
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1": {
@@ -68,8 +69,8 @@
         }
       },
       "block_order": [
-        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-2",
+        "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-video_item-1",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-1",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-2",
         "template--20054273950006__68e4f0fd-1c07-4716-83f6-dd946538d9ac-product_item-3",
