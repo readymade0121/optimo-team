@@ -2503,7 +2503,7 @@ input[type="checkbox"]:checked {
   }
 }
 @media (max-width: 590px){
-  .star-var{
+  .star-bar{
     width: 80%;
   }
 }
