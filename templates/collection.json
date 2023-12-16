@@ -49,8 +49,8 @@
         "694f2d8d-6770-47db-8475-e45e5a640e77": {
           "type": "slider_item",
           "settings": {
-            "title": "Sample Label",
-            "item_link": ""
+            "title": "Accessories",
+            "item_link": "shopify:\/\/collections\/accessories"
           }
         },
         "2e10631a-82ed-49dd-a10c-8e19450a4d9c": {
@@ -76,7 +76,6 @@
       "settings": {
         "spacing": "none",
         "compared_price": false,
-        "banner_image": "shopify:\/\/shop_images\/img_sample_banner.png",
         "product_hover": false,
         "show_sorting": false,
         "sale_price_color": "#ff0000",
