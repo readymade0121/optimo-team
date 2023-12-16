@@ -43,51 +43,6 @@
         "margin_bottom": 2
       }
     },
-    "main": {
-      "type": "main-collection",
-      "blocks": {
-        "694f2d8d-6770-47db-8475-e45e5a640e77": {
-          "type": "slider_item",
-          "settings": {
-            "title": "Accessories",
-            "item_link": "shopify:\/\/collections\/accessories"
-          }
-        },
-        "2e10631a-82ed-49dd-a10c-8e19450a4d9c": {
-          "type": "slider_item",
-          "settings": {
-            "title": "Shirts",
-            "item_link": "shopify:\/\/collections\/shirts"
-          }
-        },
-        "3dae3591-3414-40a1-b19a-868d47bd68d9": {
-          "type": "slider_item",
-          "settings": {
-            "title": "Sample Label",
-            "item_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "694f2d8d-6770-47db-8475-e45e5a640e77",
-        "2e10631a-82ed-49dd-a10c-8e19450a4d9c",
-        "3dae3591-3414-40a1-b19a-868d47bd68d9"
-      ],
-      "disabled": true,
-      "settings": {
-        "spacing": "none",
-        "compared_price": false,
-        "product_hover": false,
-        "show_sorting": false,
-        "sale_price_color": "#ff0000",
-        "slider_header": "Links",
-        "text_uppercase": false,
-        "slider_bg_color": "#ffffff",
-        "slider_txt_color": "#000000",
-        "slider_border_color": "#e5e7eb",
-        "thumbnail_type": "grid"
-      }
-    },
     "0375b4fa-f6b7-4d9c-937a-4d915e2821d1": {
       "type": "main-collection",
       "blocks": {
@@ -113,6 +68,7 @@
       "settings": {
         "spacing": "both",
         "compared_price": false,
+        "banner_image": "shopify:\/\/shop_images\/Desktop_Hero_1999013f-7795-491e-b752-888d5bd222d4.jpg",
         "product_hover": false,
         "show_sorting": true,
         "sale_price_color": "#ff0000",
@@ -127,7 +83,6 @@
   },
   "order": [
     "60478673-aad8-49a8-99ea-b9a020cf3328",
-    "main",
     "0375b4fa-f6b7-4d9c-937a-4d915e2821d1"
   ]
 }
