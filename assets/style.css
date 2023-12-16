@@ -2499,8 +2499,11 @@ input[type="checkbox"]:checked {
 @media (min-width: 599px) {
   .star-bar {
     margin: 0;
-    width: 82%;
+    width: fit-content;
   }
+}
+@media (max-width: 590px){
+  width: 80%;
 }
 
 .stars {
