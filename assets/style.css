@@ -2503,7 +2503,9 @@ input[type="checkbox"]:checked {
   }
 }
 @media (max-width: 590px){
-  width: 80%;
+  .star-var{
+    width: 80%;
+  }
 }
 
 .stars {
