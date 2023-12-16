@@ -55,7 +55,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Web_Res-456.jpg",
             "title": "Cream",
-            "url": "shopify:\/\/products\/the-m300-creme"
+            "url": "shopify:\/\/products\/the-m300-cream"
           }
         },
         "70af918b-42f8-4535-ad0a-b3d80b274f0f": {
@@ -481,7 +481,7 @@
             "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
-            "btn_link": "shopify:\/\/products\/the-m300-creme",
+            "btn_link": "shopify:\/\/products\/the-m300-cream",
             "btn_text_color": "#ffffff",
             "btn_bg_color": "#f9a526"
           }
