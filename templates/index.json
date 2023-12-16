@@ -85,7 +85,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "SHOP NOW",
-            "button_url": "shopify:\/\/products\/optimo",
+            "button_url": "shopify:\/\/collections\/suits",
             "secondary_btn_text": "",
             "button_border_radius": 10,
             "align_on_same_line": true,
@@ -130,7 +130,7 @@
             "image": "shopify:\/\/shop_images\/icons8-briefcase-64.png",
             "title": "Work",
             "body": "",
-            "url": "shopify:\/\/collections\/hoodies"
+            "url": "shopify:\/\/collections\/suits"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
@@ -139,7 +139,7 @@
             "image": "shopify:\/\/shop_images\/icons8-church-64.png",
             "title": "Church",
             "body": "",
-            "url": "shopify:\/\/collections\/t-shirt"
+            "url": "shopify:\/\/collections\/suits"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
@@ -148,7 +148,7 @@
             "image": "shopify:\/\/shop_images\/icons8-calendar-64.png",
             "title": "Nights Out",
             "body": "",
-            "url": "shopify:\/\/collections\/women"
+            "url": "shopify:\/\/collections\/suits"
           }
         },
         "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
@@ -157,7 +157,7 @@
             "image": "shopify:\/\/shop_images\/icons8-loafers-64.png",
             "title": "Missionaries",
             "body": "",
-            "url": "shopify:\/\/collections\/bottom"
+            "url": "shopify:\/\/collections\/suits"
           }
         },
         "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
@@ -228,7 +228,7 @@
           "type": "link-card",
           "settings": {
             "image": "shopify:\/\/shop_images\/SUITS_category.jpg",
-            "url": "",
+            "url": "shopify:\/\/collections\/suits",
             "heading": "",
             "button_text": "SHOP SUITS"
           }
@@ -237,7 +237,7 @@
           "type": "link-card",
           "settings": {
             "image": "shopify:\/\/shop_images\/Accessories.jpg",
-            "url": "",
+            "url": "shopify:\/\/collections\/accessories",
             "heading": "",
             "button_text": "SHOP ACCESSORIES"
           }
@@ -329,7 +329,7 @@
             "heading": "Our suits are manufactured with care using only high quality materials.",
             "body": "",
             "button_text": "SHOP NOW",
-            "button_url": "shopify:\/\/collections"
+            "button_url": "shopify:\/\/collections\/suits"
           }
         }
       },
@@ -362,7 +362,7 @@
             "heading": "What makes our suits so affordable?",
             "body": "<p>We ARE the source. No showrooms, no sales reps, no endless supply chains.<\/p>",
             "button_text": "Shop Now",
-            "button_url": ""
+            "button_url": "shopify:\/\/collections\/suits"
           }
         }
       },
