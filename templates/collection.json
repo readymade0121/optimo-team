@@ -56,8 +56,8 @@
         "2e10631a-82ed-49dd-a10c-8e19450a4d9c": {
           "type": "slider_item",
           "settings": {
-            "title": "Sample Label",
-            "item_link": ""
+            "title": "Shirts",
+            "item_link": "shopify:\/\/collections\/shirts"
           }
         },
         "3dae3591-3414-40a1-b19a-868d47bd68d9": {
