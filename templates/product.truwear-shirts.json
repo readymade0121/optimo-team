@@ -523,7 +523,7 @@
             "title": "Black",
             "tag_text_color": "#ffffff",
             "tag_bg_color": "#9c9a9a",
-            "body": "<p>Body text will goes here<\/p>",
+            "body": "",
             "body_text_color": "#ffffff",
             "button": "View Now",
             "btn_link": "shopify:\/\/products\/the-m300-black",
