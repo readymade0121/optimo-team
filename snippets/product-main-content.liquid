@@ -154,7 +154,7 @@
               <div class="product-main-options">
                 {% for option in product.options_with_values %}
                   <div class="product-main-option">
-                    <span>{{ option.name }}:</span>
+                    <span style="width:100%">{{ option.name }}:</span>
                     {% if option.name == 'Color' %}
                       {% assign variant_id = 0 %}
 
@@ -210,9 +210,17 @@
                         {% comment %} {{ value }} {% endcomment %}
                       {% endfor %}
 
+<<<<<<< HEAD
                     {% else %}
                       {% for value in option.values %}
                         <div class="product-main-option-value" style="display: flex;">
+=======
+
+                      {% else %}
+                      {% if settings.variant_dropdown %}
+                        
+                        {% for value in option.values %}
+>>>>>>> 2eb06d771da1f5ee9e5b5cfb213f1800424db916
                           <input
                             {% if option.selected_value == value %}
                               checked
@@ -221,8 +229,9 @@
                             class="product-main-option-value-radio"
                             name="{{ option.name }}"
                             value="{{ value }}"
-                            id="{{ option.name | handleize }}-{{ value }}"
+                            id="{{ value }}"
                           >
+<<<<<<< HEAD
                           <label
                             for="{{ option.name | handleize }}-{{ value }}"
                             style="{% if option.name == 'Color' %}background-color: {{ value }};{% endif %}"
@@ -236,6 +245,58 @@
 
                         {% comment %} {{ value }} {% endcomment %}
                       {% endfor %}
+=======
+                        {% endfor %}
+                        
+                        <select
+                          onChange="onChangeOption(this);"
+                          tabindex="0"
+                          onkeyup="onChangeOption(this);"
+                          class="form-field-input form-field-select"
+                          id="{{ option.name }}-selection"
+                          data-product-option="{{ forloop.index0 }}">
+                        
+                          {% for value in option.values %}
+                            
+                          <option
+                                  value="{{ value }}"
+                                  {% if option.selected_value == value %}selected="selected"{% endif %}
+                                  {% if value.available %} {% else %} data-disalbe{% endif %}
+                                  >
+                            <label for="{{ option.name | handleize }}-{{ value }}">{{ value }}</label>
+                          </option>
+                          {% endfor %}
+                        </select>
+                        
+                        {% else %}
+                          {% for value in option.values %}
+                            <div class="product-main-option-value" style="display: flex;">
+                              <input
+                                {% if option.selected_value == value %}
+                                  checked
+                                {% endif %}
+                                type="radio"
+                                class="product-main-option-value-radio"
+                                name="{{ option.name }}"
+                                value="{{ value }}"
+                                id="{{ option.name | handleize }}-{{ value }}"
+                              >
+                              <label
+                                for="{{ option.name | handleize }}-{{ value }}"
+                                style="{% if option.name == 'Color' %}background-color: {{ value }};{% endif %}"
+                                class="{% if option.name == 'Color' %}product-variant-color-swatch{% endif %}"
+                              >
+                                {% if option.name != 'Color' %}
+                                  {{ value }}
+                                {% endif %}
+                              </label>
+                            </div>
+    
+                            {% comment %} {{ value }} {% endcomment %}
+                          {% endfor %}
+                      {% endif %}
+
+>>>>>>> 2eb06d771da1f5ee9e5b5cfb213f1800424db916
                     {% endif %}
                   </div>
                 {% endfor %}
@@ -424,8 +485,19 @@
   });
 </script>
 
+<<<<<<< HEAD
 <script>
+=======
+  function onChangeOption(e){
+    console.log(this.value);
+  }
+
+  $(".form-field-input").click(function(){
+    $("#"+ this.value).click();
+  });
+>>>>>>> 2eb06d771da1f5ee9e5b5cfb213f1800424db916
   
+    
   $(document).ready(function () {
     $(".color_picker").click(function(e){
       // {% comment %} console.log('+++++'); {% endcomment %}

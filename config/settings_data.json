@@ -4,11 +4,14 @@
     "page_width": 1400,
     "spacing": 40,
     "body_font": "lato_n4",
+    "body_fontsize": "14",
     "body_bold_font": "lato_n4",
+    "bold_text_fontsize": 14,
     "headings_font": "lato_n8",
     "heading_fontsize": 30,
     "uppercase": false,
     "product_name_font": "lato_n4",
+    "product_name_fontsize": 15,
     "text_color": "#070519",
     "background_color": "#ffffff",
     "background_2_color": "#f6edf6",
@@ -20,11 +23,11 @@
     "star_color": "#f9a526",
     "checkmark_color": "#000000",
     "inverse_text_color": "#ffffff",
-    "inverse_background_color": "#4b0082",
+    "inverse_background_color": "#070519",
     "inverse_accent_color": "#ffffff",
     "inverse_accent_text_color": "#ffffff",
     "inverse_border_color": "#ffffff",
-    "inverse_button_color": "#dd1d1d",
+    "inverse_button_color": "#8e5e36",
     "inverse_button_text_color": "#ffffff",
     "inverse_star_color": "#f9a526",
     "inverse_checkmark_color": "#ffffff",
@@ -33,9 +36,11 @@
     "field_radius": 8,
     "theme_media_type": "round",
     "cart_drawer": true,
+    "variant_dropdown": true,
     "grid_item_style": "standard",
     "grid_x_spacing": 50,
     "grid_y_spacing": 50,
+    "favicon": "shopify:\/\/shop_images\/suitlink_72a078be-f444-43eb-96a7-ee11710b168f.png",
     "checkout_header_image": "shopify:\/\/shop_images\/desktop-banner.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/10.png",
     "checkout_logo_position": "center",
@@ -53,7 +58,7 @@
         "type": "announcement-bar",
         "settings": {
           "color": "normal",
-          "text": "<p>GET 10% OFF YOUR FIRST ORDER<\/p>",
+          "text": "<p>FREE SHIPPING ON ORDERS $100+<\/p>",
           "url": "shopify:\/\/products\/optimo"
         }
       },
@@ -85,14 +90,13 @@
               "logo": "shopify:\/\/shop_images\/d7715a8718b5-myth_division_initials_logo_white_ang_black__v3_1.png",
               "logo_width": 55,
               "twitter": "",
-              "facebook": "https:\/\/facebook.com\/GodsArmorWare",
+              "facebook": "https:\/\/www.facebook.com\/profile.php?id=61554717121848",
               "youtube": "",
-              "instagram": "https:\/\/instagram.com\/GodsArmorWear"
+              "instagram": "https:\/\/instagram.com\/thesuitlink"
             }
           },
           "ce011e70-be89-4d49-8fa9-ab2fe3d81501": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "nav": "footer"
             }
@@ -106,6 +110,7 @@
           },
           "b315cf8c-b773-4fdd-8d84-331ea638243a": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "nav": "footer"
             }
@@ -159,6 +164,26 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "3667842014806057753": {
+        "type": "shopify:\/\/apps\/one-click-upsell-zipify-ocu\/blocks\/app-embed\/bfe6e378-b73a-4871-b8d3-7d6ede22678e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11532412952436166569": {
+        "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-inject\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }

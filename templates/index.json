@@ -1,1 +1,682 @@
+<<<<<<< HEAD
 {"sections":{"8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684":{"type":"ig-slider","blocks":{"template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1":{"type":"video_item","disabled":true,"settings":{"title":"Testimonial"}},"template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1":{"type":"product_item","settings":{"title":"Hoodies","url":""}},"template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2":{"type":"product_item","settings":{"title":"T-Shirts","url":""}},"template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3":{"type":"product_item","settings":{"title":"Long Sleeve","url":""}},"template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4":{"type":"product_item","settings":{"title":"Hats","url":""}},"8fdad471-8ce9-4d87-a9be-2bf72b912036":{"type":"product_item","settings":{"title":"Accesories","url":""}}},"block_order":["template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1","template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1","template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2","template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3","template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4","8fdad471-8ce9-4d87-a9be-2bf72b912036"],"disabled":true,"settings":{"usage":"both","border_size":3}},"1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8":{"type":"hero-classic","blocks":{"template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0":{"type":"star-bar","settings":{"five_star_title":"Happy Customers","star_size":19}},"template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1":{"type":"heading-text","settings":{"heading":"Forge your character. Own your myth."}},"template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2":{"type":"body-text","settings":{"body":"Grand Opening! Dive into the worlds of Myth Division with a 20% off EVERYTHING celebration. Embark on a journey of mythic proportions where legends come to life."}},"template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3":{"type":"buttons","settings":{"button_text":"SHOP NOW","button_url":"shopify:\/\/products\/optimo","secondary_btn_text":"","secondary_btn_icon":"shopify:\/\/shop_images\/Play.png","button_border_radius":10,"align_on_same_line":true,"uppercase_button":false,"button_padding":20}}},"block_order":["template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0","template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1","template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2","template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3"],"settings":{"spacing":"none","section_color":"normal","desktop":"shopify:\/\/shop_images\/desktop-banner_1.png","mobile":"shopify:\/\/shop_images\/mobile-banner_2.png","make_card":false,"desktop_text_position":"left","mobile_text_position":"top","text_width":400}},"2faa8948-8532-4eb8-8204-5bc88a48b747":{"type":"intro-text","settings":{"color":"normal","spacing":"top","small_heading":"SHOP BY CATEGORY","heading":"Explore Your Passion: Easilly Shop By Category For your Favorite Myth Division merch & Apparel","text":""}},"45b904b3-e45b-4d5a-8243-e47ac643a830":{"type":"grid","blocks":{"template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/hoodie_1.png","title":"Hoodie","body":"","url":"shopify:\/\/collections\/hoodies"}},"template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/tshirt_1.png","title":"T-Shirt","body":"","url":"shopify:\/\/collections\/t-shirt"}},"template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/sweater_1.png","title":"Collectibles","body":"","url":"shopify:\/\/collections\/women"}},"template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/bottom_1.png","title":"Comics","body":"","url":"shopify:\/\/collections\/bottom"}},"b5a8c23e-43b1-4775-9011-a183f6da9dbd":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/accessories.png","title":"Plushies","body":"","url":"shopify:\/\/collections\/men"}},"c62685c6-f711-4832-abe0-f14c4fcdadbe":{"type":"grid_item","settings":{"image":"shopify:\/\/shop_images\/newarrival_1.png","title":"New Arrival","body":"","url":"shopify:\/\/collections"}}},"block_order":["template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1","template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2","template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3","template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4","b5a8c23e-43b1-4775-9011-a183f6da9dbd","c62685c6-f711-4832-abe0-f14c4fcdadbe"],"custom_css":[],"settings":{"color":"normal","images_on_mobile":"2","images_on_tablet":"3","images_on_desktop":"3","text_align":"center","limit_image_size":true}},"5ac78a83-c3d8-4fe0-baee-8c85a81c53ca":{"type":"intro-text","settings":{"color":"alt","spacing":"top","small_heading":"NEW ARRIVALS","heading":"Shop Apparel","text":""}},"eabcb187-0d81-44f8-900f-78388749dad4":{"type":"featured-collection","settings":{"spacing":"both","horizontal_spacing":26,"vertical_spacing":26,"color":"alt","collection":"frontpage","count":4,"product_hover":false}},"a5d9d414-2060-4b9a-a632-c8767dc35885":{"type":"image-or-text","blocks":{"template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0":{"type":"text","settings":{"spacing":"both","alignment":"left","small_heading":"American Ape: Anime Rumble Edition Tee","heading":"Ready to Rumble! Show off your  fighting spirit with this anime Bored Ape Tee.","body":"<p>Gear up for digital battle with the hard hitting American Ape Tee, featuring the anime inspired version of the amnesiac title BAYC character and the ruthless Bounty Hunter, Murphy, the Deathbot Killer. Designed by the legendary RIOT Games artist, Jon Lam, this tee blends cotton, rayon, and polyester for an irresistibly soft touch that will not shrink in the wash.<\/p><p>When you slip into one of these shirts, you're not just wearing a t-shirt; you're donning the essence of good old fashioned fisticuffs. Lovers of the epic anime fight will love this one. Wear this American Ape tee and let the world know you're not afraid to embrace your inner badass.<\/p>","button_text":"SHOP NOW","button_url":"shopify:\/\/collections"}},"template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/image_4_3_copy_2_1.png"}}},"block_order":["template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-0","template--19840411664694__a5d9d414-2060-4b9a-a632-c8767dc35885-1688512652f9a0ae97-1"],"settings":{"spacing":"both","color":"normal","contained":false,"block_spacing":100}},"c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5":{"type":"heading-text","settings":{"spacing":"top","color":"inverse","text":"Our Collections"}},"27138591-9185-4f3c-8ca3-34be1551668a":{"type":"image-or-text","blocks":{"3d3c8b59-5e0e-4bf1-add5-c3a465b22242":{"type":"link-card","settings":{"image":"shopify:\/\/shop_images\/collection-img1_2.png","url":"","heading":"AGENT GEAR","button_text":"SHOP NOW"}},"8c361dc7-a9b6-4867-825d-a8b5eefbb4db":{"type":"link-card","settings":{"image":"shopify:\/\/shop_images\/collection-img2.png","url":"","heading":"BOOKS, ARTS & TOYS","button_text":"SHOP NOW"}}},"block_order":["3d3c8b59-5e0e-4bf1-add5-c3a465b22242","8c361dc7-a9b6-4867-825d-a8b5eefbb4db"],"settings":{"spacing":"both","color":"inverse","contained":false,"block_spacing":20}},"1ddd250b-223c-4adf-934e-bbee463f458a":{"type":"hero-blocked","blocks":{"template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1":{"type":"heading","settings":{"title":"The Shopify Theme that gets better every month.","heading_font_size":14,"heading_border_radius":16,"heading_text_color":"#ffffff","heading_bg_color":"#000000"}},"template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1":{"type":"body_text","settings":{"title":"","body_font_size":14,"body_text_color":"#ffffff","body_bg_color":"#000000"}},"template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1":{"type":"image","settings":{}},"template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1":{"type":"button","settings":{"button_text":"Get The Theme","button_text_color":"#ffffff","button_bg_color":"#000000","button_deco_color":"#000000","button_link":"shopify:\/\/products\/optimo"}}},"block_order":["template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1","template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1","template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1","template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1"],"disabled":true,"settings":{}},"23e2ebce-0d8e-4f91-9e58-6eebe285ded6":{"type":"image-or-text","blocks":{"template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Group.png"}},"template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1":{"type":"text","settings":{"spacing":"both","alignment":"left","small_heading":"Leap of Faith","heading":"Wear Your Courage and show off the bold pursuit of your dreams.","body":"<p>Take a \"Leap of Faith\" with our dark grey tee, inspired by our founder's journey into the world of comic creation. This shirt is not just a piece of clothing; it's a symbol of believing in yourself and achieving the impossible. Marking a pivotal moment in Myth Division’s very first comic book series, this shirt is an homage to the risks taken at the beginning of any difficult journey. Made from the same comfortable materials and available in both men's and women's sizes, it's a reminder that dreams are worth pursuing.<\/p>","button_text":"SHOP NOW","button_url":"shopify:\/\/collections"}}},"block_order":["template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1","template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"],"settings":{"spacing":"both","color":"normal","contained":false,"block_spacing":100}},"7ff1d7ed-e5f8-481f-ad45-c91aa045b23f":{"type":"heading-text","settings":{"spacing":"top","color":"normal","text":"Customer Reviews"}},"086d1ac5-2174-4263-b13a-9d10a58c2537":{"type":"image-or-text","blocks":{"e088b976-829d-4762-b701-b0092c3bf79d":{"type":"review","settings":{"image":"shopify:\/\/shop_images\/Oval.png","stars":5,"review":"I love this hoodie very much. I'm a fan of Gods Armor Wear product. I can express my faith!","reviewer":"J.R","text_box_background":"#f6edf6"}},"26c577f3-14da-4357-91e3-cdba53ea0c89":{"type":"review","settings":{"image":"shopify:\/\/shop_images\/Oval_1.png","stars":5,"review":"Gods Armor Wear allows me to share my faith with others & I don't even need to speak. Amazing product & Comfortable","reviewer":"Sample R","text_box_background":"#f6edf6"}}},"block_order":["e088b976-829d-4762-b701-b0092c3bf79d","26c577f3-14da-4357-91e3-cdba53ea0c89"],"settings":{"spacing":"both","color":"normal","contained":false,"block_spacing":100}},"36c4061f-b658-4892-9adb-3ad74bd58180":{"type":"faqs","blocks":{"1bdd2c90-51c7-420b-84b0-73ce70a5afe9":{"type":"section","disabled":true,"settings":{"heading":"Will optimo look good on mobile?","body":"<p>Will a bear do its business in the woods? Absolutely! Optimo was born on mobile. <\/p><p>Your site will look so good on mobile, your customers won't be able to resist.<\/p>"}},"5bb7edee-01d6-4a6b-8b28-d0a578996410":{"type":"section","disabled":true,"settings":{"heading":"What if I need help at 3am?","body":"<p>We've got you covered! Our team of theme experts are on hand 24\/7. <\/p><p>They're real people, not robots (at least, not yet). So, whether you're a night owl or an early bird, we're here for you<\/p>"}},"ebc001ae-0148-46d0-8401-a6530c90c24a":{"type":"section","disabled":true,"settings":{"heading":"Can I use Optimo for my [insert industry here] store?","body":"<p>You bet! Optimo is like a chameleon, it adapts to any industry. <\/p><p>Whether you're selling artisanal cheese or spaceship parts, Optimo's got your back.<\/p>"}},"bb2f36c2-cde2-4bf6-bf82-edd757b49f4f":{"type":"section","settings":{"heading":"What if I decide to break up with Optimo?","body":"<p>We'll be heartbroken, but we understand. There's no contract or commitment, you can cancel anytime. <\/p><p>But remember, Optimo will always be here, waiting for you with open arms.<\/p>"}}},"block_order":["1bdd2c90-51c7-420b-84b0-73ce70a5afe9","5bb7edee-01d6-4a6b-8b28-d0a578996410","ebc001ae-0148-46d0-8401-a6530c90c24a","bb2f36c2-cde2-4bf6-bf82-edd757b49f4f"],"disabled":true,"settings":{"spacing":"bottom","faqs":"FAQ's","heading_size":"medium","color":"normal"}},"8d34d457-41d5-4ef1-947d-4f9dc45a5f6a":{"type":"grid","blocks":{"template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1":{"type":"grid_item","settings":{"title":"Heading will goes here","body":"<p>Body Text will goes here<\/p>","url":""}},"template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2":{"type":"grid_item","settings":{"title":"Heading will goes here","body":"<p>Body Text will goes here<\/p>","url":""}},"template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3":{"type":"grid_item","settings":{"title":"Heading will goes here","body":"<p>Body Text will goes here<\/p>","url":""}},"template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4":{"type":"grid_item","settings":{"title":"Heading will goes here","body":"<p>Body Text will goes here<\/p>","url":""}}},"block_order":["template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1","template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2","template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3","template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4"],"disabled":true,"settings":{"color":"normal","images_on_mobile":"2","images_on_tablet":"4","images_on_desktop":"4","text_align":"left","limit_image_size":false}},"441edd8c-8049-4590-b66d-8c0c0df16d7b":{"type":"carousel","blocks":{"4abf86b3-204b-4e7d-8d10-156f5f82ccc0":{"type":"product_item","settings":{"product":"","main_text_color":"#000000","sub_text_color":"#000000","button_text":"Call To Action","button_text_color":"#ffffff","button_bg_color":"#000000"}},"573781a5-b93a-4123-8d80-fb79dcc2812e":{"type":"product_item","settings":{"product":"","main_text_color":"#000000","sub_text_color":"#000000","button_text":"Call To Action","button_text_color":"#ffffff","button_bg_color":"#000000"}},"f5e9ac8c-2473-4245-9d08-bbb92c12d44c":{"type":"product_item","settings":{"product":"","main_text_color":"#000000","sub_text_color":"#000000","button_text":"Call To Action","button_text_color":"#ffffff","button_bg_color":"#000000"}}},"block_order":["4abf86b3-204b-4e7d-8d10-156f5f82ccc0","573781a5-b93a-4123-8d80-fb79dcc2812e","f5e9ac8c-2473-4245-9d08-bbb92c12d44c"],"disabled":true,"settings":{"card_background_color":"#f2f2f2","cards_on_mobile":"1","cards_on_tablet":"2","cards_on_desktop":"3"}},"a86f8e79-07b7-4bfc-bd0b-f861ecb79517":{"type":"featured-product","blocks":{"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1":{"type":"title","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1":{"type":"price","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1":{"type":"variants","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1":{"type":"quantity","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1":{"type":"buy","settings":{"dynamic":true}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1":{"type":"description","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1":{"type":"trust","settings":{}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1":{"type":"review","settings":{"color":"normal","review":"Please Type your review text here. For example: I love this product very much. I'm a fan of this product","reviewer":"Sample R","stars":5}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1":{"type":"collapsable-row","settings":{"heading":"","icon_size":30,"body":""}},"template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1":{"type":"three","settings":{"image1_width":80,"text1":"","image2_width":80,"text2":"","image3_width":80,"text3":""}}},"block_order":["template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1","template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1"],"disabled":true,"settings":{"spacing":"both","color":"normal","product":"green-hoodie-1"}}},"order":["8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684","1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8","2faa8948-8532-4eb8-8204-5bc88a48b747","45b904b3-e45b-4d5a-8243-e47ac643a830","5ac78a83-c3d8-4fe0-baee-8c85a81c53ca","eabcb187-0d81-44f8-900f-78388749dad4","a5d9d414-2060-4b9a-a632-c8767dc35885","c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5","27138591-9185-4f3c-8ca3-34be1551668a","1ddd250b-223c-4adf-934e-bbee463f458a","23e2ebce-0d8e-4f91-9e58-6eebe285ded6","7ff1d7ed-e5f8-481f-ad45-c91aa045b23f","086d1ac5-2174-4263-b13a-9d10a58c2537","36c4061f-b658-4892-9adb-3ad74bd58180","8d34d457-41d5-4ef1-947d-4f9dc45a5f6a","441edd8c-8049-4590-b66d-8c0c0df16d7b","a86f8e79-07b7-4bfc-bd0b-f861ecb79517"]}
+=======
+{
+  "sections": {
+    "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684": {
+      "type": "ig-slider",
+      "blocks": {
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1": {
+          "type": "video_item",
+          "settings": {
+            "title": "Meet Suit Link"
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1": {
+          "type": "product_item",
+          "settings": {
+            "title": "Suits",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2": {
+          "type": "product_item",
+          "settings": {
+            "title": "Ties",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3": {
+          "type": "product_item",
+          "settings": {
+            "title": "Dress Shirts",
+            "url": ""
+          }
+        },
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4": {
+          "type": "product_item",
+          "settings": {
+            "title": "Cuff Links",
+            "url": ""
+          }
+        },
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036": {
+          "type": "product_item",
+          "settings": {
+            "title": "Accessories",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-video_item-1",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-1",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-2",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-3",
+        "template--20054273294646__8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684-product_item-4",
+        "8fdad471-8ce9-4d87-a9be-2bf72b912036"
+      ],
+      "disabled": true,
+      "settings": {
+        "usage": "both",
+        "border_size": 3
+      }
+    },
+    "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8": {
+      "type": "hero-classic",
+      "blocks": {
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0": {
+          "type": "star-bar",
+          "settings": {
+            "five_star_title": "1000+ Happy Customers",
+            "star_size": 20
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1": {
+          "type": "heading-text",
+          "settings": {
+            "heading": "Comfort, Quality, Style."
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2": {
+          "type": "body-text",
+          "settings": {
+            "body": "Feel unstoppable in our premium suits for the man on the move."
+          }
+        },
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections\/suits",
+            "secondary_btn_text": "",
+            "button_border_radius": 10,
+            "align_on_same_line": true,
+            "uppercase_button": false,
+            "button_padding": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-0",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-1",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-2",
+        "template--19840411664694__1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8-168958044129a14077-3"
+      ],
+      "settings": {
+        "spacing": "none",
+        "section_color": "inverse",
+        "desktop": "shopify:\/\/shop_images\/Desktop_Hero_4f2bca0e-6d3f-45b2-861c-09d2d2b20196.jpg",
+        "mobile": "shopify:\/\/shop_images\/slherotest2.jpg",
+        "make_card": false,
+        "desktop_text_position": "left",
+        "mobile_text_position": "bottom",
+        "text_width": 460
+      }
+    },
+    "2faa8948-8532-4eb8-8204-5bc88a48b747": {
+      "type": "intro-text",
+      "settings": {
+        "color": "normal",
+        "spacing": "top",
+        "small_heading": "Designed With",
+        "heading": "You In Mind",
+        "text": ""
+      }
+    },
+    "45b904b3-e45b-4d5a-8243-e47ac643a830": {
+      "type": "grid",
+      "blocks": {
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-briefcase-64.png",
+            "title": "Work",
+            "body": "",
+            "url": "shopify:\/\/collections\/suits"
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-church-64.png",
+            "title": "Church",
+            "body": "",
+            "url": "shopify:\/\/collections\/suits"
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-calendar-64.png",
+            "title": "Nights Out",
+            "body": "",
+            "url": "shopify:\/\/collections\/suits"
+          }
+        },
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4": {
+          "type": "grid_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-loafers-64.png",
+            "title": "Missionaries",
+            "body": "",
+            "url": "shopify:\/\/collections\/suits"
+          }
+        },
+        "b5a8c23e-43b1-4775-9011-a183f6da9dbd": {
+          "type": "grid_item",
+          "disabled": true,
+          "settings": {
+            "title": "New Arrival",
+            "body": "",
+            "url": "shopify:\/\/collections\/men"
+          }
+        },
+        "c62685c6-f711-4832-abe0-f14c4fcdadbe": {
+          "type": "grid_item",
+          "disabled": true,
+          "settings": {
+            "title": "Best Seller",
+            "body": "",
+            "url": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-1",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-2",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-3",
+        "template--20054273294646__45b904b3-e45b-4d5a-8243-e47ac643a830-grid_item-4",
+        "b5a8c23e-43b1-4775-9011-a183f6da9dbd",
+        "c62685c6-f711-4832-abe0-f14c4fcdadbe"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color": "normal",
+        "images_on_mobile": "2",
+        "images_on_tablet": "4",
+        "images_on_desktop": "4",
+        "text_align": "center",
+        "limit_image_size": true
+      }
+    },
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca": {
+      "type": "intro-text",
+      "settings": {
+        "color": "alt",
+        "spacing": "top",
+        "small_heading": "Introducing",
+        "heading": "Best Sellers",
+        "text": ""
+      }
+    },
+    "eabcb187-0d81-44f8-900f-78388749dad4": {
+      "type": "featured-collection",
+      "settings": {
+        "spacing": "top",
+        "horizontal_spacing": 10,
+        "vertical_spacing": 10,
+        "color": "alt",
+        "collection": "suits",
+        "count": 6,
+        "product_hover": true
+      }
+    },
+    "27138591-9185-4f3c-8ca3-34be1551668a": {
+      "type": "image-or-text",
+      "blocks": {
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SUITS_category.jpg",
+            "url": "shopify:\/\/collections\/suits",
+            "heading": "",
+            "button_text": "SHOP SUITS"
+          }
+        },
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db": {
+          "type": "link-card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accessories.jpg",
+            "url": "shopify:\/\/collections\/accessories",
+            "heading": "",
+            "button_text": "SHOP ACCESSORIES"
+          }
+        }
+      },
+      "block_order": [
+        "3d3c8b59-5e0e-4bf1-add5-c3a465b22242",
+        "8c361dc7-a9b6-4867-825d-a8b5eefbb4db"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 20
+      }
+    },
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5": {
+      "type": "heading-text",
+      "disabled": true,
+      "settings": {
+        "spacing": "top",
+        "color": "inverse",
+        "text": "Our Collections"
+      }
+    },
+    "1ddd250b-223c-4adf-934e-bbee463f458a": {
+      "type": "hero-blocked",
+      "blocks": {
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The Shopify Theme that gets better every month.",
+            "heading_font_size": 14,
+            "heading_border_radius": 16,
+            "heading_text_color": "#ffffff",
+            "heading_bg_color": "#000000"
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1": {
+          "type": "body_text",
+          "settings": {
+            "title": "",
+            "body_font_size": 14,
+            "body_text_color": "#ffffff",
+            "body_bg_color": "#000000"
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "Get The Theme",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000",
+            "button_deco_color": "#000000",
+            "button_link": "shopify:\/\/products\/optimo"
+          }
+        }
+      },
+      "block_order": [
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-heading-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-body_text-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-image-1",
+        "template--20054273294646__1ddd250b-223c-4adf-934e-bbee463f458a-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/premium_poly_b76280a1-b1ef-4bfb-ae7c-35b3bf6bf527.jpg"
+          }
+        },
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "We take quality seriously",
+            "heading": "Our suits are manufactured with care using only high quality materials.",
+            "body": "",
+            "button_text": "SHOP NOW",
+            "button_url": "shopify:\/\/collections\/suits"
+          }
+        }
+      },
+      "block_order": [
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-image-1",
+        "template--16360634384541__23e2ebce-0d8e-4f91-9e58-6eebe285ded6-text-1"
+      ],
+      "settings": {
+        "spacing": "bottom",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "f878518b-cf50-4a17-a97b-0504f2239d9f": {
+      "type": "image-or-text",
+      "blocks": {
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/price_2c8df94e-27bb-4b56-b930-cf10c9c20c96.jpg"
+          }
+        },
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-text-1": {
+          "type": "text",
+          "settings": {
+            "spacing": "both",
+            "alignment": "left",
+            "small_heading": "Our competitors will charge you $900...",
+            "heading": "What makes our suits so affordable?",
+            "body": "<p>We ARE the source. No showrooms, no sales reps, no endless supply chains.<\/p>",
+            "button_text": "Shop Now",
+            "button_url": "shopify:\/\/collections\/suits"
+          }
+        }
+      },
+      "block_order": [
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-image-1",
+        "template--17018870431980__f878518b-cf50-4a17-a97b-0504f2239d9f-text-1"
+      ],
+      "settings": {
+        "spacing": "bottom",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "7ff1d7ed-e5f8-481f-ad45-c91aa045b23f": {
+      "type": "heading-text",
+      "settings": {
+        "spacing": "top",
+        "color": "normal",
+        "text": "Customer Reviews"
+      }
+    },
+    "086d1ac5-2174-4263-b13a-9d10a58c2537": {
+      "type": "image-or-text",
+      "blocks": {
+        "e088b976-829d-4762-b701-b0092c3bf79d": {
+          "type": "review",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/headshot_2_02c032a7-dae7-4a4e-b9a1-c817cbdfaeb9.jpg",
+            "stars": 5,
+            "review": "I wasted so much money on suits before I found Suit Link. The quality is amazing and the price is un unbeatable.",
+            "reviewer": "Kevin D",
+            "text_box_background": "#f6edf6"
+          }
+        },
+        "26c577f3-14da-4357-91e3-cdba53ea0c89": {
+          "type": "review",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heashot_1.jpg",
+            "stars": 5,
+            "review": "The material is WAY higher quality than the price suggests. These suits are perfect if you're a guy who needs to dress up regularly.",
+            "reviewer": "Ryan J",
+            "text_box_background": "#f6edf6"
+          }
+        }
+      },
+      "block_order": [
+        "e088b976-829d-4762-b701-b0092c3bf79d",
+        "26c577f3-14da-4357-91e3-cdba53ea0c89"
+      ],
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "contained": false,
+        "block_spacing": 100
+      }
+    },
+    "36c4061f-b658-4892-9adb-3ad74bd58180": {
+      "type": "faqs",
+      "blocks": {
+        "1bdd2c90-51c7-420b-84b0-73ce70a5afe9": {
+          "type": "section",
+          "settings": {
+            "heading": "Why are your suits so much cheaper than competitors?",
+            "body": "<p>Will a bear do its business in the woods? Absolutely! Optimo was born on mobile. <\/p><p>Your site will look so good on mobile, your customers won't be able to resist.<\/p>"
+          }
+        },
+        "5bb7edee-01d6-4a6b-8b28-d0a578996410": {
+          "type": "section",
+          "settings": {
+            "heading": "Can I exchange my suit for a different size if it doesn't fit?",
+            "body": "<p>Yes! You just pay shipping. Send it back to us and we'll get you another size ASAP.<\/p>"
+          }
+        },
+        "ebc001ae-0148-46d0-8401-a6530c90c24a": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "heading": "Can I use Optimo for my [insert industry here] store?",
+            "body": "<p>You bet! Optimo is like a chameleon, it adapts to any industry. <\/p><p>Whether you're selling artisanal cheese or spaceship parts, Optimo's got your back.<\/p>"
+          }
+        },
+        "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f": {
+          "type": "section",
+          "settings": {
+            "heading": "Should I have my suit altered?",
+            "body": "<p>Yes! Any great suit needs to be customized to YOUR body. Order the right size jacket to fit perfectly on the first try, then take the pants to a tailor to get the perfect length and waist.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1bdd2c90-51c7-420b-84b0-73ce70a5afe9",
+        "5bb7edee-01d6-4a6b-8b28-d0a578996410",
+        "ebc001ae-0148-46d0-8401-a6530c90c24a",
+        "bb2f36c2-cde2-4bf6-bf82-edd757b49f4f"
+      ],
+      "settings": {
+        "spacing": "bottom",
+        "faqs": "FAQ's",
+        "heading_size": "medium",
+        "color": "normal"
+      }
+    },
+    "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a": {
+      "type": "grid",
+      "blocks": {
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1": {
+          "type": "grid_item",
+          "settings": {
+            "title": "US",
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
+          }
+        },
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4": {
+          "type": "grid_item",
+          "settings": {
+            "title": "Heading will goes here",
+            "body": "<p>Body Text will goes here<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-1",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-2",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-3",
+        "template--20592461250870__8d34d457-41d5-4ef1-947d-4f9dc45a5f6a-grid_item-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "color": "normal",
+        "images_on_mobile": "2",
+        "images_on_tablet": "4",
+        "images_on_desktop": "4",
+        "text_align": "left",
+        "limit_image_size": false
+      }
+    },
+    "441edd8c-8049-4590-b66d-8c0c0df16d7b": {
+      "type": "carousel",
+      "blocks": {
+        "4abf86b3-204b-4e7d-8d10-156f5f82ccc0": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        },
+        "573781a5-b93a-4123-8d80-fb79dcc2812e": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        },
+        "f5e9ac8c-2473-4245-9d08-bbb92c12d44c": {
+          "type": "product_item",
+          "settings": {
+            "product": "",
+            "main_text_color": "#000000",
+            "sub_text_color": "#000000",
+            "button_text": "Call To Action",
+            "button_text_color": "#ffffff",
+            "button_bg_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "4abf86b3-204b-4e7d-8d10-156f5f82ccc0",
+        "573781a5-b93a-4123-8d80-fb79dcc2812e",
+        "f5e9ac8c-2473-4245-9d08-bbb92c12d44c"
+      ],
+      "disabled": true,
+      "settings": {
+        "card_background_color": "#f2f2f2",
+        "cards_on_mobile": "1",
+        "cards_on_tablet": "2",
+        "cards_on_desktop": "3"
+      }
+    },
+    "a86f8e79-07b7-4bfc-bd0b-f861ecb79517": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1": {
+          "type": "variants",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1": {
+          "type": "quantity",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1": {
+          "type": "buy",
+          "settings": {
+            "dynamic": true
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1": {
+          "type": "trust",
+          "settings": {
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1": {
+          "type": "review",
+          "settings": {
+            "color": "normal",
+            "review": "Please Type your review text here. For example: I love this product very much. I'm a fan of this product",
+            "reviewer": "Sample R",
+            "stars": 5
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1": {
+          "type": "collapsable-row",
+          "settings": {
+            "heading": "",
+            "icon_size": 30,
+            "body": ""
+          }
+        },
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1": {
+          "type": "three",
+          "settings": {
+            "image1_width": 80,
+            "text1": "",
+            "image2_width": 80,
+            "text2": "",
+            "image3_width": 80,
+            "text3": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-title-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-price-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-variants-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-quantity-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-buy-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-description-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-trust-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-review-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-collapsable-row-1",
+        "template--20592461250870__a86f8e79-07b7-4bfc-bd0b-f861ecb79517-three-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing": "both",
+        "color": "normal",
+        "product": "green-hoodie-1"
+      }
+    }
+  },
+  "order": [
+    "8ee6cddb-e92a-4fbe-8f1f-624b0d7a1684",
+    "1b401d9f-e7a5-4c3d-9239-5f3f3a16f1b8",
+    "2faa8948-8532-4eb8-8204-5bc88a48b747",
+    "45b904b3-e45b-4d5a-8243-e47ac643a830",
+    "5ac78a83-c3d8-4fe0-baee-8c85a81c53ca",
+    "eabcb187-0d81-44f8-900f-78388749dad4",
+    "27138591-9185-4f3c-8ca3-34be1551668a",
+    "c3a8dabd-c57e-4c35-ac8c-cb3e90f577f5",
+    "1ddd250b-223c-4adf-934e-bbee463f458a",
+    "23e2ebce-0d8e-4f91-9e58-6eebe285ded6",
+    "f878518b-cf50-4a17-a97b-0504f2239d9f",
+    "7ff1d7ed-e5f8-481f-ad45-c91aa045b23f",
+    "086d1ac5-2174-4263-b13a-9d10a58c2537",
+    "36c4061f-b658-4892-9adb-3ad74bd58180",
+    "8d34d457-41d5-4ef1-947d-4f9dc45a5f6a",
+    "441edd8c-8049-4590-b66d-8c0c0df16d7b",
+    "a86f8e79-07b7-4bfc-bd0b-f861ecb79517"
+  ]
+}
+>>>>>>> 2eb06d771da1f5ee9e5b5cfb213f1800424db916
