@@ -4,11 +4,11 @@
   {% assign cls1 = 'hero-classic--desktop-text-right' %}
 {% endif %}
 
-{% if section.settings.mobile_text_position == 'bottom' %}
-  {% assign cls2 = 'hero-classic--mobile-text-bottom' %}
+{% if section.settings.mobile_text_position == 'top' %}
+  {% assign cls2 = 'hero-classic--mobile-text-top' %}
 {% endif %}
 
-<div class="review-slider hero-classic--{{ section.id }} {{ cls1 }} {% if section.settings.spacing == 'both' %}section-spacing--both{% elsif section.settings.spacing == 'top' %}section-spacing--top{% elsif section.settings.spacing == 'none' %}section-spacing--none{% else %}section-spacing--bottom{% endif %}">
+<div class="review-slider hero-classic--{{ section.id }} {{ cls1 }} {{ cls2 }} {% if section.settings.spacing == 'both' %}section-spacing--both{% elsif section.settings.spacing == 'top' %}section-spacing--top{% elsif section.settings.spacing == 'none' %}section-spacing--none{% else %}section-spacing--bottom{% endif %}">
   <div class="hero-classic">
     <div class="hero-classic-slider-items">
       {% if section.settings.mobile == blank %}
@@ -22,7 +22,7 @@
       {% else %}
         <img class="hero-classic-desktop" src="{{ section.settings.desktop | img_url: 'master' }}">
       {% endif %}
-      <div class="hero-classic-text {{ cls2 }}">
+      <div class="hero-classic-text">
         <div class="width">
           <div class="hero-classic-text-inner">
             {% for block in section.blocks %}
@@ -277,10 +277,6 @@
      .hero-classic-buttons {
        justify-content: center;
      }
-     .hero-classic--mobile-text-bottom {
-       bottom:10%;
-       top: auto;
-     }
    }
 
    .hero-classic-text-inner h1 {
@@ -302,7 +298,6 @@
      .hero-classic-body {
        font-size: var(--body_font_size_desktop);
      }
-     
    }
 </style>
 

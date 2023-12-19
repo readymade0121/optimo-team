@@ -68,14 +68,7 @@
 {% assign selectedVariant = product.selected_or_first_available_variant %}
 {% assign img = product.featured_image %}
 <div class="product-main-flex section-template--{{ section.id }}">
-  <div class="product-main-images">
-    {% comment %}
-      {% if product.featured_image != blank %}
-        {% assign img = product.featured_image %}
-        <img class="product-main-image" src="{{ img | img_url: 'master' }}">
-      {% endif %}
-    {% endcomment %}
-    {% comment %} {{ settings.thumbnail_type }} {% endcomment %}
+  <div class="gallery">
     {%- if settings.thumbnail_type == 'grid' -%}
       <div class="product-main-image-wrapper">
         <img class="product-main-image" src="{{ img | img_url: 'master' }}">
@@ -92,23 +85,27 @@
       </ul>
     {% else %}
       {% if settings.thumbnail_type == 'slider' %}
-        <ul id="main-slider">
-          {% for image in product.images %}
-            <li class="product-main-image-thumb {% if img == image %}product-main-image-thumb--selected{% endif %}">
-              <img src="{{ image | img_url: 'master' }}" />
-            </li>
-          {% endfor %}
-        </ul>
-        <ul id="thumbnail-slider">
-          {% assign thumbnail_id = 0 %}
-          {% for image in product.images %}
-            <li class="product-main-image-thumb {% if img == image %}product-main-image-thumb--selected{% endif %}">
-              <img src="{{ image | img_url: 'master' }}"
-                id="thumblabel-{% increment thumbnail_id %}" />
-              <div>{{ image }}</div>
-            </li>
-          {% endfor %}
-        </ul>
+        <div class="swiper-container gallery-top">
+          <div class="swiper-wrapper">
+            {% for image in product.images %}
+              <div class="swiper-slide">
+                <img class="product-main-image" src="{{ image | img_url: 'master' }}">
+              </div>
+            {% endfor %}
+          </div>
+          <!-- Add Arrows -->
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper-container gallery-thumbs">
+          <div class="swiper-wrapper">
+            {% for image in product.images %}
+              <div class="swiper-slide product-main-image-thumb {% if img == image %}product-main-image-thumb--selected{% endif %}"  >
+                <img src="{{ image | img_url: 'master' }}" data-variant-list="{% for v in image.variants %}{{ v.id }}{% unless forloop.last %},{% endunless %}{% endfor %}">
+              </div>
+            {% endfor %}
+          </div>
+        </div>
       {% endif %}
     {% endif %}
   </div>
@@ -165,14 +162,17 @@
                         {% assign variants = image.variants | sort: 'title' %}
                         {% assign color = '' %}
                         {% for variant in variants %}
-                          {% assign words = variant.title | split: '/' %}
+                          {% assign words = variant.title | split: ' ' %}
                           {% assign compare_color = words[0] | downcase %}
                           {% if color != compare_color %}
+                            {% assign color = compare_color %}
                             <li>
                               <img
+                                data-color-swatch
                                 style="width:60px; border-radius:10px"
-                                class="color_picker"
                                 id="{% increment variant_id %}"
+                                class="color_picker"
+                                data-variant-id="{{ variant.id }}"
                                 src="{{variant.image.src | img_url: 'small'}}"
                                 alt="{{variant.title}}"
                               >
@@ -181,8 +181,8 @@
                         {% endfor %}
                       {% endfor %}
 
-                    {% comment %} {% else %} {% endcomment %}
-                    {% assign variant_id_hidden = 0 %}
+                      {% comment %} {% else %} {% endcomment %}
+                      {% assign variant_id_hidden = 0 %}
                       {% for value in option.values %}
                         <div class="product-main-option-value" style="display: flex;">
                           <input
@@ -210,9 +210,7 @@
                         {% comment %} {{ value }} {% endcomment %}
                       {% endfor %}
 
-
-                      {% else %}
-
+                    {% else %}
                       {% for value in option.values %}
                         <div class="product-main-option-value" style="display: flex;">
                           <input
@@ -238,7 +236,6 @@
 
                         {% comment %} {{ value }} {% endcomment %}
                       {% endfor %}
-
                     {% endif %}
                   </div>
                 {% endfor %}
@@ -402,17 +399,56 @@
   {% endif %}
 </div>
 
+<!-- Initialize Swiper -->
 <script>
+  var galleryThumbs = new Swiper('.gallery-thumbs', {
+    spaceBetween: 10,
+    slidesPerView: 6,
+    loop: true,
+    freeMode: true,
+    loopedSlides: 5, //looped slides should be the same
+    watchSlidesVisibility: true,
+    watchSlidesProgress: true,
+  });
+  var galleryTop = new Swiper('.gallery-top', {
+    spaceBetween: 10,
+    loop: true,
+    loopedSlides: 5, //looped slides should be the same
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    thumbs: {
+      swiper: galleryThumbs,
+    },
+  });
+</script>
 
+<script>
   
   $(document).ready(function () {
-    $(".color_picker").click(function(){
-      {% comment %} console.log('+++++'); {% endcomment %}
+    $(".color_picker").click(function(e){
+      // {% comment %} console.log('+++++'); {% endcomment %}
       var t = $(this).attr('id');
       $("img").css("border","none");
-      $(this).css("border","1px solid black");
-      {% comment %} $("#thumblabel-"+t).trigger('click'); {% endcomment %}
+      $(this).css("border","1px solid red");
       $("#label-"+t).trigger('click');
+      let vid = e.target.getAttribute('data-variant-id');
+      let thumbs = $('[data-variant-list]');
+      console.log(vid);
+      for(thumb of thumbs) {
+        if(thumb.getAttribute('data-variant-list').indexOf(vid) >= 0) {
+        
+          form.querySelector('.swiper-slide-active .product-main-image').setAttribute('src', thumb.getAttribute('src'));
+          break;
+        }
+           /* thumb.trigger('click'); */
+           /* $("."+thumb.getAttribute('class')).click(); */
+          // thumb.querySelector('img').trigger('click');
+          // $('.xyz').click();
+      }
+          $("#clickable").trigger('click');
+          console.log("+++++++++");
     });
 
 
@@ -496,7 +532,7 @@
               {% endunless %}
       
               // Switch to featured image
-              if (variant.featured_image) {
+              /* if (variant.featured_image) {
                   const src = variant.featured_image.src;
                   const position = variant.featured_image.position;
       
@@ -507,7 +543,7 @@
                   .querySelector('.product-main-image-thumb--selected')
                   .classList.remove('product-main-image-thumb--selected');
                   thumb.classList.add('product-main-image-thumb--selected');
-              }
+              } */
               });
           });
       }
